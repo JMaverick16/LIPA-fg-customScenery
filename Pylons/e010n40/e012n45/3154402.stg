@@ -1,0 +1,24 @@
+# pylons_e010n40_e012n45_3154401
+# do not edit below this line
+# Last Written Sat Oct 12 17:53:29 2019
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 12.50065 45.62057 0.71 288.191
+# END pylons_e010n40_e012n45_3154401
+# pylons_e010n40_e012n45_3154394
+# do not edit below this line
+# Last Written Sat Oct 12 22:06:31 2019
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 12.59438 45.50160 -2.04 401.287
+# END pylons_e010n40_e012n45_3154394
+# pylons_e010n40_e012n45_3154410
+# do not edit below this line
+# Last Written Sat Oct 12 22:34:21 2019
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 12.55120 45.62377 0.66 250.383
+# END pylons_e010n40_e012n45_3154410
+# pylons_e010n40_e012n45_3154403
+# do not edit below this line
+# Last Written Sun Oct 13 00:31:09 2019
+#
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac 12.74850 45.56680 -2.29 209.982
+# END pylons_e010n40_e012n45_3154403
