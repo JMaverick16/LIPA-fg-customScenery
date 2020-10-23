@@ -19,7 +19,7 @@ Licenses
   
 
 :copyright: 2019-2020 J Maverick 16 (3D models placement, airport data)
-:copyright: 2020 Marsdolphin (ground net work)
-:copyright: 2020 VIPER (ground net work)
+:copyright: 2020 Marsdolphin (ground network)
+:copyright: 2020 VIPER (ground network)
 :copyright: 2019 HB-VANO (OSM2city.py pylons and roads work)
 :copyright: 2014 Lester Boffo (original Aviano-Piancavallo road work)
