@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<!-- LIPA groundnet v3.1, by Viper and Marsdolphin -->
+<!-- LIPA groundnet v3.2, by Viper and Marsdolphin -->
 <groundnet>
   <version>1</version>
   <parkingList>
@@ -21,8 +21,8 @@
 		<Parking index="16" type="hangar" name="Buzzards11" lat="N46 1.5633" lon="E12 34.685" heading="29"  radius="17" airlineCodes="" />
 		<Parking index="17" type="hangar" name="Buzzards12" lat="N46 1.6117" lon="E12 35.0117" heading="189"  radius="17" airlineCodes="" />
 		<Parking index="18" type="hangar" name="Buzzards13" lat="N46 1.647" lon="E12 35.04" heading="268"  radius="17" airlineCodes="" />
-		<Parking index="19" type="hangar" name="TripleNick1" lat="N46 1.2417" lon="E12 35.0967" heading="260"  radius="17" airlineCodes="" />
-		<Parking index="20" type="ramp" name="TripleNick2" lat="N46 1.2" lon="E12 34.9767" heading="099.2"  radius="17" airlineCodes="" />
+		<Parking index="19" type="hangar" name="TripleNick1" lat="N46 1.2402" lon="E12 35.084" heading="260"  radius="17" airlineCodes="" />
+		<Parking index="20" type="ramp" name="TripleNick2" lat="N46 1.1989" lon="E12 34.9853" heading="099.2"  radius="17" airlineCodes="" />
 		<Parking index="21" type="ramp" name="TripleNick3" lat="N46 1.1017" lon="E12 35.06" heading="041"  radius="17" airlineCodes="" />
 		<Parking index="22" type="ramp" name="TripleNick4" lat="N46 1.0717" lon="E12 35.0967" heading="041.5"  radius="17" airlineCodes="" />
 		<Parking index="23" type="ramp" name="TripleNick5" lat="N46 1.0634" lon="E12 35.1395" heading="30"  radius="17" airlineCodes="" />
@@ -60,5 +60,8 @@
 		<Parking index="55" type="ramp" name="Ramp1" lat="N46 1.4185" lon="E12 35.4313" heading="320"  radius="17" airlineCodes="" />
 		<Parking index="56" type="ramp" name="Ramp2" lat="N46 1.81" lon="E12 36.1102" heading="130"  radius="17" airlineCodes="" />
 		<Parking index="57" type="ramp" name="Ramp3" lat="N46 1.9606" lon="E12 36.4097" heading="277"  radius="17" airlineCodes="" />
+		<Parking index="58" type="ramp" name="PrepArea1" lat="N46 1.5027" lon="E12 34.9723" heading="110"  radius="17" airlineCodes="" />
+		<Parking index="59" type="ramp" name="PrepArea2" lat="N46 1.4492" lon="E12 34.9613" heading="127"  radius="17" airlineCodes="" />
+		<Parking index="60" type="ramp" name="PrepArea3" lat="N46 1.3684" lon="E12 35.0527" heading="340"  radius="17" airlineCodes="" />
  </parkingList>
 </groundnet>
