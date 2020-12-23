@@ -60,8 +60,8 @@
 		<Parking index="55" type="ramp" name="Ramp1" lat="N46 1.4185" lon="E12 35.4313" heading="320"  radius="17" airlineCodes="" />
 		<Parking index="56" type="ramp" name="Ramp2" lat="N46 1.81" lon="E12 36.1102" heading="130"  radius="17" airlineCodes="" />
 		<Parking index="57" type="ramp" name="Ramp3" lat="N46 1.9606" lon="E12 36.4097" heading="277"  radius="17" airlineCodes="" />
-		<Parking index="58" type="ramp" name="PrepArea1" lat="N46 1.5027" lon="E12 34.9723" heading="110"  radius="17" airlineCodes="" />
-		<Parking index="59" type="ramp" name="PrepArea2" lat="N46 1.4492" lon="E12 34.9613" heading="127"  radius="17" airlineCodes="" />
-		<Parking index="60" type="ramp" name="PrepArea3" lat="N46 1.3684" lon="E12 35.0527" heading="340"  radius="17" airlineCodes="" />
+		<Parking index="58" type="ramp" name="PrepArea1" lat="N46 1.5027" lon="E12 34.9723" heading="140"  radius="17" airlineCodes="" />
+		<Parking index="59" type="ramp" name="PrepArea2" lat="N46 1.4492" lon="E12 34.9613" heading="100"  radius="17" airlineCodes="" />
+		<Parking index="60" type="ramp" name="PrepArea3" lat="N46 1.3684" lon="E12 35.0527" heading="330"  radius="17" airlineCodes="" />
  </parkingList>
 </groundnet>
