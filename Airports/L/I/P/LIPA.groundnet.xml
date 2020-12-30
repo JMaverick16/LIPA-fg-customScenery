@@ -8,19 +8,19 @@
 		<Parking index="3" type="hangar" name="Hangar3" lat="N46 1.6067" lon="E12 35.9133" heading="320"  radius="17" airlineCodes="" />
 		<Parking index="4" type="hangar" name="Hangar4" lat="N46 1.62" lon="E12 35.9633" heading="360"  radius="17" airlineCodes="" />
 		<Parking index="5" type="hangar" name="Hangar5" lat="N46 1.7083" lon="E12 35.8433" heading="180"  radius="17" airlineCodes="" />
-		<Parking index="6" type="hangar" name="Buzzards1" lat="N46 1.67" lon="E12 34.8767" heading="008"  radius="17" airlineCodes="" />
-		<Parking index="7" type="hangar" name="88-0444" lat="N46 1.7317" lon="E12 34.8733" heading="028"  radius="17" airlineCodes="" />
-		<Parking index="8" type="hangar" name="Buzzards3" lat="N46 1.7933" lon="E12 34.9267" heading="044"  radius="17" airlineCodes="" />
-		<Parking index="9" type="hangar" name="Buzzards4" lat="N46 1.84" lon="E12 34.988" heading="068"  radius="17" airlineCodes="" />
-		<Parking index="10" type="hangar" name="Buzzards5" lat="N46 1.8867" lon="E12 35.0883" heading="153"  radius="17" airlineCodes="" />
-		<Parking index="11" type="hangar" name="Buzzards6" lat="N46 1.8883" lon="E12 35.1767" heading="185"  radius="17" airlineCodes="" />
-		<Parking index="12" type="hangar" name="Buzzards7" lat="N46 1.875" lon="E12 35.2667" heading="130"  radius="17" airlineCodes="" />
-		<Parking index="13" type="hangar" name="Buzzards8" lat="N46 1.8483" lon="E12 35.3317" heading="280"  radius="17" airlineCodes="" />
-		<Parking index="14" type="hangar" name="Buzzards9" lat="N46 1.765" lon="E12 35.2933" heading="40"  radius="17" airlineCodes="" />
-		<Parking index="15" type="hangar" name="Buzzards10" lat="N46 1.5383" lon="E12 34.74" heading="22.5"  radius="17" airlineCodes="" />
-		<Parking index="16" type="hangar" name="Buzzards11" lat="N46 1.5633" lon="E12 34.685" heading="29"  radius="17" airlineCodes="" />
-		<Parking index="17" type="hangar" name="Buzzards12" lat="N46 1.6117" lon="E12 35.0117" heading="189"  radius="17" airlineCodes="" />
-		<Parking index="18" type="hangar" name="Buzzards13" lat="N46 1.647" lon="E12 35.04" heading="268"  radius="17" airlineCodes="" />
+		<Parking index="6" type="hangar" name="Buzzard1" lat="N46 1.67" lon="E12 34.8767" heading="008"  radius="17" airlineCodes="" />
+		<Parking index="7" type="hangar" name="Buzzard2" lat="N46 1.7317" lon="E12 34.8733" heading="028"  radius="17" airlineCodes="" />
+		<Parking index="8" type="hangar" name="Buzzard3" lat="N46 1.7933" lon="E12 34.9267" heading="044"  radius="17" airlineCodes="" />
+		<Parking index="9" type="hangar" name="Buzzard4" lat="N46 1.84" lon="E12 34.988" heading="068"  radius="17" airlineCodes="" />
+		<Parking index="10" type="hangar" name="Buzzard5" lat="N46 1.8867" lon="E12 35.0883" heading="153"  radius="17" airlineCodes="" />
+		<Parking index="11" type="hangar" name="Buzzard6" lat="N46 1.8883" lon="E12 35.1767" heading="185"  radius="17" airlineCodes="" />
+		<Parking index="12" type="hangar" name="Buzzard7" lat="N46 1.875" lon="E12 35.2667" heading="130"  radius="17" airlineCodes="" />
+		<Parking index="13" type="hangar" name="Buzzard8" lat="N46 1.8483" lon="E12 35.3317" heading="280"  radius="17" airlineCodes="" />
+		<Parking index="14" type="hangar" name="Buzzard9" lat="N46 1.765" lon="E12 35.2933" heading="40"  radius="17" airlineCodes="" />
+		<Parking index="15" type="hangar" name="Buzzard10" lat="N46 1.5383" lon="E12 34.74" heading="22.5"  radius="17" airlineCodes="" />
+		<Parking index="16" type="hangar" name="Buzzard11" lat="N46 1.5633" lon="E12 34.685" heading="29"  radius="17" airlineCodes="" />
+		<Parking index="17" type="hangar" name="Buzzard12" lat="N46 1.6117" lon="E12 35.0117" heading="189"  radius="17" airlineCodes="" />
+		<Parking index="18" type="hangar" name="Buzzard13" lat="N46 1.647" lon="E12 35.04" heading="268"  radius="17" airlineCodes="" />
 		<Parking index="19" type="hangar" name="TripleNick1" lat="N46 1.2402" lon="E12 35.084" heading="260"  radius="17" airlineCodes="" />
 		<Parking index="20" type="ramp" name="TripleNick2" lat="N46 1.1989" lon="E12 34.9853" heading="099.2"  radius="17" airlineCodes="" />
 		<Parking index="21" type="ramp" name="TripleNick3" lat="N46 1.1017" lon="E12 35.06" heading="041"  radius="17" airlineCodes="" />
