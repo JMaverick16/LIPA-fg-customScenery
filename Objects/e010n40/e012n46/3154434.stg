@@ -225,7 +225,6 @@ OBJECT_SHARED Models/Military/fuel-truck-medpoly.xml 12.5904747 46.0314714 107.5
 OBJECT_SHARED Models/Military/fuel-truck-medpoly.xml 12.5905221 46.0314343 107.56 96
 OBJECT_SHARED Models/Military/fuel-truck-medpoly.xml 12.5905725 46.0313951 107.56 96
 OBJECT_SHARED Models/Military/fuel-truck-medpoly.xml 12.604399 46.0318037 114.96 60
-OBJECT_SHARED Models/Military/hard-top1-sand.xml 12.5831694 46.0194589 92.41 334.3
 OBJECT_SHARED Models/Military/humvee-pickup-odrab-low-poly.xml 12.5785068 46.0268569 96.92 328.9
 OBJECT_SHARED Models/Military/humvee-pickup-odrab-low-poly.xml 12.57874 46.0262367 96.51 244
 OBJECT_SHARED Models/Military/humvee-pickup-odrab-low-poly.xml 12.5869826 46.0280692 102.68 43.5
@@ -683,10 +682,6 @@ OBJECT_SHARED Models/AirBase/klsv-workshop-3-red.xml 12.58642759 46.03204716 105
 OBJECT_SHARED Models/AirBase/klsv-building-3.xml 12.58091041 46.02466090 97.1104 310.7 0.0 -0.0
 OBJECT_SHARED Models/Airport/embankment100.ac 12.58558168 46.02878460 102.5793 322.6 0.0 -0.0
 OBJECT_SHARED Models/Airport/embankment100.ac 12.58505775 46.02906211 102.4373 323.1 0.0 -0.0
-OBJECT_SHARED Models/Airport/embankment50.ac 12.58680681 46.02011462 94.9953 322.3 0.0 -0.0
-OBJECT_SHARED Models/Airport/embankment50.ac 12.58722685 46.01990240 94.9396 321.6 0.0 -0.0
-OBJECT_SHARED Models/Airport/embankment20.ac 12.58727174 46.02023771 95.3401 52.0 0.0 -0.0
-OBJECT_SHARED Models/Airport/embankment20.ac 12.58675107 46.01977723 94.5799 52.7 0.0 -0.0
 OBJECT_SHARED Models/Airport/embankment20.ac 12.58573782 46.02932482 103.0471 52.7 0.0 -0.0
 OBJECT_SHARED Models/Airport/embankment20.ac 12.58489040 46.02852641 101.8751 52.3 0.0 -0.0
 OBJECT_SHARED Models/AirBase/klsv-small-building-1.xml 12.60237199 46.02899702 111.8543 130.6 0.0 -0.0
@@ -700,7 +695,7 @@ OBJECT_SHARED Models/AirBase/klsv-radio-station-south-1.xml 12.60028334 46.03046
 OBJECT_SHARED Models/AirBase/klsv-workshop-2-red.xml 12.58322278 46.01683913 89.6124 61.8 0.0 -0.0
 OBJECT_SHARED Models/AirBase/klsv-radio-station-south-1.xml 12.58561802 46.02162726 95.9190 310.8 0.0 -0.0
 OBJECT_SHARED Models/Agriculture/farmhouse1.ac 12.57365877 46.02072451 87.0295 149.5 0.0 -0.0
-OBJECT_SHARED Models/Industrial/generic_crane_01.ac 12.58748036 46.02014571 2.2599 116.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/generic_crane_01.ac 12.58748036 46.02014571 2.2599 110.0 0.0 -0.0
 OBJECT_SHARED Models/Industrial/Crane-100m.xml 12.60184755 46.04101230 80.2265 335.6 0.0 -0.0
 OBJECT_SHARED Models/Industrial/wood_chip_heap_small.ac 12.60157921 46.04040107 103.0754 230.8 0.0 -0.0
 OBJECT_SHARED Models/Industrial/wood_chip_heap_small.ac 12.58779183 46.01998997 73.4745 36.0 0.0 -0.0
@@ -729,3 +724,8 @@ OBJECT_SHARED Models/Boundaries/Automatic_Green_Gate_20m.xml 12.58379072 46.0210
 OBJECT_SHARED Models/Boundaries/Automatic_Green_Gate_20m.xml 12.60533790 46.03248522 116.6699 260.8 0.0 -0.0
 OBJECT_SHARED Models/Boundaries/Automatic_Green_Gate_20m.xml 12.59593565 46.02817880 107.9958 320.0 0.0 -0.0
 OBJECT_SHARED Models/Airport/weather-station.ac 12.60817506 46.03704200 121.8285 86.5 0.0 -0.0
+OBJECT_SHARED Models/Airport/LSGS_GrassHangar.ac 12.58758517 46.02058293 95.6392 310.5 0.0 -0.0
+OBJECT_SHARED Models/Airport/LSGS_GrassHangar.ac 12.58687262 46.02017135 94.8550 310.5 0.0 -0.0
+OBJECT_SHARED Models/Airport/wall25m-sand.xml 12.58977502 46.01780481 94.6801 309.8 0.0 -0.0
+OBJECT_SHARED Models/Airport/embankment100.ac 12.58682889 46.02040568 95.2793 309.8 0.0 -0.0
+OBJECT_SHARED Models/Airport/hangar_25x25m_tan.ac 12.58293658 46.01957222 92.3577 64.1 0.0 -0.0
