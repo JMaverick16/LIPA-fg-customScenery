@@ -304,10 +304,10 @@ OBJECT_SHARED Models/Airport/LFPZ1b.xml 12.6038036 46.0434528 125.5 152
 OBJECT_SHARED Models/Communications/tower-microwave-1.xml 12.5316134 46.0937364 1242.57 132
 OBJECT_SHARED Models/Airport/kmtn-modular-hangar.ac 12.5786962 46.0236928 94.93 188
 OBJECT_SHARED Models/Commercial/hotel-generic-01.xml 12.6072508 46.0337629 117.25 40
-OBJECT_SHARED Models/Airport/BAK12.xml 12.5868115 46.0251522 100.28 311.5
-OBJECT_SHARED Models/Airport/BAK12.xml 12.5910141 46.0277676 104.92 311.5
-OBJECT_SHARED Models/Airport/BAK12.xml 12.6042436 46.0359992 119.23 311.5
-OBJECT_SHARED Models/Airport/BAK12.xml 12.6060298 46.0371105 121.18 311.5
+OBJECT_SHARED Models/Airport/BAK12.xml 12.5868115 46.0251522 100.25 311.5
+OBJECT_SHARED Models/Airport/BAK12.xml 12.5910141 46.0277676 104.90 311.5
+OBJECT_SHARED Models/Airport/BAK12.xml 12.6042436 46.0359992 119.20 311.5
+OBJECT_SHARED Models/Airport/BAK12.xml 12.6060298 46.0371105 121.15 311.5
 OBJECT_SHARED Models/Communications/tower-microwave-small-1.ac 12.6119154 46.0468531 132.28 92
 OBJECT_SHARED Models/Communications/tower-microwave-small-1.ac 12.624106 46.009452 95.04 64
 OBJECT_SHARED Models/Communications/communication-building1.ac 12.5310274 46.093478 1242.92 288
@@ -413,14 +413,14 @@ OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.5791329 46.0234862 94.
 OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.5792264 46.0246049 95.33 216
 OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.5800389 46.0244133 95.6 152
 OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.5838634 46.0188514 92.13 19.4
-OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.5844736 46.0181386 91.67 5.5
+#OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.5844736 46.0181386 91.67 5.5
 OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.5854102 46.0174445 91.38 329.6
-OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.5864543 46.0174552 91.93 266.1
-OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.5877433 46.0174647 92.61 279.9
-OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.5891344 46.0208743 96.99 199.1
-OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.5901508 46.0185231 95.01 320.7
-OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.59068183 46.02121879 98.14 196.7
-OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.5910283 46.0193595 96.36 341.1
+#OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.5864543 46.0174552 91.93 266.1
+#OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.5877433 46.0174647 92.61 279.9
+#OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.5891344 46.0208743 96.99 199.1
+#OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.5901508 46.0185231 95.01 320.7
+#OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.59068183 46.02121879 98.14 196.7
+#OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.5910283 46.0193595 96.36 341.1
 OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.604488 46.0431769 125.96 151.1
 OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.6051322 46.0440234 127.15 331.5
 OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.6076804 46.0446523 129.15 152.8
@@ -729,3 +729,11 @@ OBJECT_SHARED Models/Airport/LSGS_GrassHangar.ac 12.58687262 46.02017135 94.8550
 OBJECT_SHARED Models/Airport/wall25m-sand.xml 12.58977502 46.01780481 94.6801 309.8 0.0 -0.0
 OBJECT_SHARED Models/Airport/embankment100.ac 12.58682889 46.02040568 95.2793 309.8 0.0 -0.0
 OBJECT_SHARED Models/Airport/hangar_25x25m_tan.ac 12.58293658 46.01957222 92.3577 64.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/wall25m-sand.xml 12.58417478 46.01857162 92.1206 320.0 0.0 -0.0
+OBJECT_SHARED Models/Military_Shelter/Military_shelter.xml 12.58909161 46.02097820 97.0909 107.0 0.0 -0.0
+OBJECT_SHARED Models/Military_Shelter/Military_shelter.xml 12.59062979 46.02131123 98.2382 106.9 0.0 -0.0
+OBJECT_SHARED Models/Military_Shelter/Military_shelter.xml 12.59098106 46.01926284 96.5816 250.1 0.0 -0.0
+OBJECT_SHARED Models/Military_Shelter/Military_shelter.xml 12.59004381 46.01842790 95.1821 230.0 0.0 -0.0
+OBJECT_SHARED Models/Military_Shelter/Military_shelter.xml 12.58759666 46.01744948 92.8465 190.0 0.0 -0.0
+OBJECT_SHARED Models/Military_Shelter/Military_shelter.xml 12.58630279 46.01746370 92.1618 174.9 0.0 -0.0
+OBJECT_SHARED Models/Military_Shelter/Military_shelter.xml 12.58448498 46.01803743 91.9041 277.0 0.0 -0.0
