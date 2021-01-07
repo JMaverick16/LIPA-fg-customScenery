@@ -9,7 +9,7 @@ OBJECT_SHARED Models/Airport/blast-deflector63m.xml 12.5880834 46.022401 98.02 2
 OBJECT_SHARED Models/Military/RAFTower.xml 12.5945486 46.0252529 103.14 88
 OBJECT_SHARED Models/Communications/cell-monopole1-75m.xml 12.602118 46.016173 72.31 50
 OBJECT_SHARED Models/Communications/cell-monopole1-75m.xml 12.624047 46.010562 66.29 72
-OBJECT_SHARED Models/Military/beacon-mil-nt.xml 12.6037908 46.0287971 145.67 0
+#OBJECT_SHARED Models/Military/beacon-mil-nt.xml 12.6037908 46.0287971 145.67 0
 OBJECT_SHARED Models/Communications/base_clape_03.xml 12.5310704 46.0938721 1244.94 220
 OBJECT_SHARED Models/Communications/base_clape_03.xml 12.6047469 46.021556 106.09 76
 OBJECT_SHARED Models/Commercial/tecalemit.xml 12.6142704 46.0369696 125.92 40.2
@@ -696,7 +696,7 @@ OBJECT_SHARED Models/AirBase/klsv-workshop-2-red.xml 12.58322278 46.01683913 89.
 OBJECT_SHARED Models/AirBase/klsv-radio-station-south-1.xml 12.58561802 46.02162726 95.9190 310.8 0.0 -0.0
 OBJECT_SHARED Models/Agriculture/farmhouse1.ac 12.57365877 46.02072451 87.0295 149.5 0.0 -0.0
 OBJECT_SHARED Models/Industrial/generic_crane_01.ac 12.58748036 46.02014571 2.2599 110.0 0.0 -0.0
-OBJECT_SHARED Models/Industrial/Crane-100m.xml 12.60184755 46.04101230 80.2265 335.6 0.0 -0.0
+OBJECT_SHARED Models/Industrial/Crane-100m.xml 12.60184755 46.04101230 80.2265 325.5 0.0 -0.0
 OBJECT_SHARED Models/Industrial/wood_chip_heap_small.ac 12.60157921 46.04040107 103.0754 230.8 0.0 -0.0
 OBJECT_SHARED Models/Industrial/wood_chip_heap_small.ac 12.58779183 46.01998997 73.4745 36.0 0.0 -0.0
 OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 12.58425407 46.02118796 94.7007 40.0 0.0 -0.0
@@ -706,7 +706,6 @@ OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 12.58574513 46.02205420 96.
 OBJECT_SHARED Models/Boundaries/Fence-10m-grayBW.xml 12.58604329 46.02222821 96.7542 40.0 0.0 -0.0
 OBJECT_SHARED Models/Transport/pickupwhite.ac 12.58361197 46.01891281 92.0403 288.2 0.0 -0.0
 OBJECT_SHARED Models/Transport/van_blue_dirty.ac 12.58330607 46.01979850 92.8400 80.4 0.0 -0.0
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 12.58486025 46.01778919 91.4906 16.8 0.0 -0.0
 OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 12.59176120 46.03078284 107.6718 311.7 0.0 -0.0
 OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 12.59147335 46.03059197 107.3457 311.8 0.0 -0.0
 OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 12.59104296 46.03092769 107.4111 311.8 0.0 -0.0
@@ -723,6 +722,7 @@ OBJECT_SHARED Models/Boundaries/Automatic_Green_Gate_20m.xml 12.58656942 46.0223
 OBJECT_SHARED Models/Boundaries/Automatic_Green_Gate_20m.xml 12.58379072 46.02104759 94.9548 279.9 0.0 -0.0
 OBJECT_SHARED Models/Boundaries/Automatic_Green_Gate_20m.xml 12.60533790 46.03248522 116.6699 260.8 0.0 -0.0
 OBJECT_SHARED Models/Boundaries/Automatic_Green_Gate_20m.xml 12.59593565 46.02817880 107.9958 320.0 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/Automatic_Green_Gate_20m.xml 12.58145497 46.02631260 98.6523 8.5 0.0 -0.0
 OBJECT_SHARED Models/Airport/weather-station.ac 12.60817506 46.03704200 121.8285 86.5 0.0 -0.0
 OBJECT_SHARED Models/Airport/LSGS_GrassHangar.ac 12.58758517 46.02058293 95.6392 310.5 0.0 -0.0
 OBJECT_SHARED Models/Airport/LSGS_GrassHangar.ac 12.58687262 46.02017135 94.8550 310.5 0.0 -0.0
@@ -737,3 +737,6 @@ OBJECT_SHARED Models/Military_Shelter/Military_shelter.xml 12.59004381 46.018427
 OBJECT_SHARED Models/Military_Shelter/Military_shelter.xml 12.58759666 46.01744948 92.8465 190.0 0.0 -0.0
 OBJECT_SHARED Models/Military_Shelter/Military_shelter.xml 12.58630279 46.01746370 92.1618 174.9 0.0 -0.0
 OBJECT_SHARED Models/Military_Shelter/Military_shelter.xml 12.58448498 46.01803743 91.9041 277.0 0.0 -0.0
+#OBJECT_SHARED Models/AirBase/klsv-tower.xml 12.603791 46.028797 112.0743 221.8 0.0 -0.0
+OBJECT_SHARED Models/Airport/kdp_start.ac 12.61425102 46.03703293 142.6722 220.2 0.0 -0.0
+OBJECT_SHARED Models/Military/beacon-mil-nt.xml 12.61427630 46.03701060 148.3531 0.0 0.0 -0.0
