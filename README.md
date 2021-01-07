@@ -4,8 +4,8 @@ Add-on scenery package that improves the already-existing work available on Terr
 
 Overview
 -------------------------
-This repository contains additional static objects, improved airport data (tower position and elevation, etc.) and OSM2city.py pylons and road data for Aviano Air Base (LIPA), nearby airports and surrounding Italian territory.
-The following airports are included: LIPA, LIPI, LIDK, LIPS.
+This repository contains additional static objects, improved airport data (tower position and elevation, parking positions, etc.) and OSM2city.py pylons and road data for Aviano Air Base (LIPA), nearby airports and surrounding Italian territory.
+The following airports are included: LIPA, LIPI, LIPD, LIDK, LIPS.
 
 Installation instructions
 -------------------------
@@ -21,7 +21,7 @@ Licenses
   
 
 :copyright: 2019-2020-2021 J Maverick 16 (3D models placement, airport data, ground network changes)
-:copyright: 2020 Marsdolphin (improved ground network)
+:copyright: 2020-2021 Marsdolphin (improved ground network)
 :copyright: 2020 VIPER (initial ground network)
 :copyright: 2020 mada00 (NATO Military Shelter model)
 :copyright: 2019 HB-VANO (OSM2city.py pylons and roads work)

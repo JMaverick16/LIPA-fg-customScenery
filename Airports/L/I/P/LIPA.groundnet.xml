@@ -23,16 +23,16 @@
 		<Parking index="18" type="hangar" name="Hangar13" lat="N46 1.5633" lon="E12 34.685" heading="29"  radius="17" airlineCodes="" />
 		<Parking index="19" type="hangar" name="Nickel1" lat="N46 1.2406" lon="E12 35.084" heading="262.5"  radius="17" airlineCodes="" />
 		<Parking index="20" type="hangar" name="89-2068" lat="N46 1.1989" lon="E12 34.9853" heading="099.2"  radius="17" airlineCodes="" />
-		<Parking index="21" type="ramp" name="NickelRamp1" lat="N46 1.1711" lon="E12 35.0" heading="024.5"  radius="17" airlineCodes="" />
-		<Parking index="22" type="hangar" name="Nickel3" lat="N46 1.0851" lon="E12 35.0686" heading="352"  radius="17" airlineCodes="" />
-		<Parking index="23" type="hangar" name="Nickel5" lat="N46 1.0477" lon="E12 35.1783" heading="95"  radius="17" airlineCodes="" />
-		<Parking index="24" type="ramp" name="Nickel6" lat="N46 1.047" lon="E12 35.255" heading="80"  radius="17" airlineCodes="" />
-		<Parking index="25" type="hangar" name="Nickel7" lat="N46 1.1068" lon="E12 35.4038" heading="40"  radius="17" airlineCodes="" />
-		<Parking index="26" type="hangar" name="Nickel8" lat="N46 1.1569" lon="E12 35.4593" heading="19.4"  radius="17" airlineCodes="" />
-		<Parking index="27" type="hangar" name="Nickel9" lat="N46 1.2317" lon="E12 35.475" heading="343.5"  radius="17" airlineCodes="" />
-		<Parking index="28" type="ramp" name="Nickel10" lat="N46 1.2569" lon="E12 35.3463" heading="162.8"  radius="17" airlineCodes="" />
-		<Parking index="29" type="hangar" name="Nickel11" lat="N46 1.2795" lon="E12 35.4374" heading="162.5"  radius="17" airlineCodes="" />
-		<Parking index="30" type="hangar" name="Nickel12" lat="N46 1.285" lon="E12 35.2333" heading="021"  radius="17" airlineCodes="" />
+		<Parking index="21" type="ramp" name="NickelRamp1" lat="N46 1.167" lon="E12 35.0" heading="025.2"  radius="17" airlineCodes="" />
+		<Parking index="22" type="hangar" name="Nickel3" lat="N46 1.0851" lon="E12 35.0686" heading="352.5"  radius="17" airlineCodes="" />
+		<Parking index="23" type="hangar" name="Nickel4" lat="N46 1.0477" lon="E12 35.1783" heading="95"  radius="17" airlineCodes="" />
+		<Parking index="24" type="hangar" name="Nickel5" lat="N46 1.047" lon="E12 35.255" heading="80"  radius="17" airlineCodes="" />
+		<Parking index="25" type="hangar" name="Nickel6" lat="N46 1.1068" lon="E12 35.4038" heading="40"  radius="17" airlineCodes="" />
+		<Parking index="26" type="hangar" name="Nickel7" lat="N46 1.1569" lon="E12 35.4593" heading="19.4"  radius="17" airlineCodes="" />
+		<Parking index="27" type="hangar" name="Nickel8" lat="N46 1.2317" lon="E12 35.475" heading="343.5"  radius="17" airlineCodes="" />
+		<Parking index="28" type="hangar" name="Nickel9" lat="N46 1.2799" lon="E12 35.4372" heading="163"  radius="17" airlineCodes="" />
+		<Parking index="29" type="hangar" name="Nickel10" lat="N46 1.2569" lon="E12 35.3463" heading="162.8"  radius="17" airlineCodes="" />
+		<Parking index="30" type="hangar" name="Nickel11" lat="N46 1.285" lon="E12 35.2333" heading="021"  radius="17" airlineCodes="" />
 		<Parking index="31" type="ramp" name="Pax Term" lat="N46 1.9917" lon="E12 35.6267" heading="045"  radius="33" airlineCodes="" />
 		<Parking index="32" type="ramp" name="Cargo1" lat="N46 2.0583" lon="E12 35.735" heading="045"  radius="30" airlineCodes="" />
 		<Parking index="33" type="ramp" name="Cargo2" lat="N46 2.125" lon="E12 35.8483" heading="045"  radius="30" airlineCodes="" />
