@@ -10,4 +10,13 @@
   <max-m>10000</max-m>
  </animation>
 
+ <!-- enable-hot -->
+ <animation>
+  <object-name>tubi calotta</object-name>
+  <object-name>Plane.014</object-name>
+  <object-name>Plane.003</object-name>
+  <object-name>Plane.002</object-name>
+  <enable-hot type="bool">false</enable-hot>
+ </animation>
+
 </PropertyList>
