@@ -1,0 +1,513 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+    
+    <path>internal-neon-light.ac</path>
+    
+    <animation>
+        <type>noshadow</type>
+        <object-name>array neon pipe supports (Meshed)</object-name>
+        <object-name>array neon tube (Meshed)</object-name>
+        <object-name>array neon white (Meshed)</object-name>
+        <object-name>array cover bottom (Meshed)</object-name>
+        <object-name>array mirror bottom (Meshed)</object-name>
+        <object-name>array mirror border (Meshed)</object-name>
+        <object-name>array cover top (Meshed)</object-name>
+        <object-name>support (Meshed)</object-name>
+        <object-name>array cover bottom (Mirror #5) (Meshed)</object-name>
+        <object-name>array cover top (Mirror #2) (Meshed)</object-name>
+        <object-name>array mirror bottom (Mirror #6) (Meshed)</object-name>
+        <object-name>array mirror border (Mirror #7) (Meshed)</object-name>
+        <object-name>array neon white (Mirror #4) (Meshed)</object-name>
+        <object-name>array neon tube (Mirror #3) (Meshed)</object-name>
+        <object-name>array neon pipe supports (Mirror #1) (Meshed)</object-name>
+        <object-name>electric bus (Meshed)</object-name>
+        <object-name>electric box (Meshed)</object-name>
+        <object-name>electric push top (Meshed)</object-name>
+        <object-name>electric push neon (Meshed)</object-name>
+        <object-name>electric push neon night (Meshed)</object-name>
+        <object-name>profile (Meshed)</object-name>
+        <object-name>profile top (Meshed)</object-name>
+        <object-name>electric bus (Mirror #8) (Meshed)</object-name>
+        <object-name>electric box (Mirror #9) (Meshed)</object-name>
+        <object-name>electric push top (Mirror #10) (Meshed)</object-name>
+        <object-name>electric push neon (Mirror #11) (Meshed)</object-name>
+        <object-name>electric push neon night (Mirror #12) (Meshed)</object-name>
+        <object-name>electric box label (Mirror #15) (Meshed)</object-name>
+        <object-name>electric box label (Meshed)</object-name>
+        <object-name>profile (Mirror #13) (Meshed)</object-name>
+        <object-name>profile top (Mirror #14) (Meshed)</object-name>
+    </animation>
+    
+    <animation> 
+        <type>material</type>
+        <object-name>array cover bottom (Meshed)</object-name>
+        <object-name>array cover bottom (Mirror #5) (Meshed)</object-name>
+        <diffuse>
+            <red>0.2</red>
+            <green>0.2</green>
+            <blue>0.2</blue>
+        </diffuse>
+        <ambient>
+            <red>0.1</red>
+            <green>0.1</green>
+            <blue>0.1</blue>
+        </ambient>
+        <emission>
+            <red>0.1</red>
+            <green>0.1</green>
+            <blue>0.1</blue>
+            <factor-prop>sim/scenery/shelter_type_01/scene_light_factor</factor-prop>
+        </emission>
+    </animation>
+
+    <animation> 
+        <type>material</type>
+        <object-name>array cover top (Meshed)</object-name>
+        <object-name>array cover top (Mirror #2) (Meshed)</object-name>
+        <transparency>
+            <alpha>0.7</alpha>
+        </transparency>
+        <diffuse>
+            <red>0.6</red>
+            <green>0.7</green>
+            <blue>0.8</blue>
+        </diffuse>
+        <ambient>
+            <red>0.7</red>
+            <green>0.7</green>
+            <blue>0.8</blue>
+        </ambient>
+        <specular>
+            <red>0.8</red>
+            <green>0.8</green>
+            <blue>0.8</blue>
+        </specular>
+        <emission>
+            <red>sim/scenery/shelter_type_01/neon_light_emission_red</red>
+            <green>sim/scenery/shelter_type_01/neon_light_emission_green</green>
+            <blue>sim/scenery/shelter_type_01/neon_light_emission_blue</blue>
+            <factor>1.0</factor>
+        </emission>
+    </animation>
+    
+    <animation>
+        <type>pick</type>
+        <object-name>array cover top (Meshed)</object-name>
+        <object-name>array cover top (Mirror #2) (Meshed)</object-name>
+        <action>
+            <button>0</button>
+            <repeatable>false</repeatable>
+            <interval-sec>0.2</interval-sec>
+            <binding>
+                <command>nasal</command>
+                <script><![CDATA[
+                    var setLight = getprop("sim/scenery/shelter_type_01/set_light");
+                    if (setLight == nil) {
+                        setLight = 1
+                    } else {
+                        if (setLight == 4) {
+                            setLight = 2;
+                        } else {
+                            setLight = setLight + 1;
+                        };
+                    };
+                    if (setLight >= 4) setLight = 0;
+                    setprop("sim/scenery/shelter_type_01/set_light",setLight);
+                ]]></script>
+            </binding>
+        </action>
+    </animation>
+    
+    <animation> 
+        <type>material</type>
+        <object-name>array mirror bottom (Meshed)</object-name>
+        <object-name>array mirror bottom (Mirror #6) (Meshed)</object-name>
+        <diffuse>
+            <red>0.8</red>
+            <green>0.8</green>
+            <blue>0.8</blue>
+            <factor-prop>sim/scenery/shelter_type_01/neon_light_mirror</factor-prop>
+        </diffuse>
+        <ambient>
+            <red>0.8</red>
+            <green>0.8</green>
+            <blue>0.8</blue>
+            <factor-prop>sim/scenery/shelter_type_01/neon_light_mirror</factor-prop>
+        </ambient>
+        <specular>
+            <red>0.8</red>
+            <green>0.8</green>
+            <blue>0.8</blue>
+            <factor-prop>sim/scenery/shelter_type_01/neon_light_mirror</factor-prop>
+        </specular>
+        <emission>
+            <red-prop>sim/scenery/shelter_type_01/neon_light_emission_red</red-prop>
+            <green-prop>sim/scenery/shelter_type_01/neon_light_emission_green</green-prop>
+            <blue-prop>sim/scenery/shelter_type_01/neon_light_emission_blue</blue-prop>
+            <factor-prop>sim/scenery/shelter_type_01/neon_light_mirror</factor-prop>
+        </emission>
+    </animation>
+    
+    <animation> 
+        <type>material</type>
+        <object-name>array mirror border (Meshed)</object-name>
+        <object-name>array mirror border (Mirror #7) (Meshed)</object-name>
+        <object-name>array neon pipe supports (Meshed)</object-name>
+        <object-name>array neon pipe supports (Mirror #1) (Meshed)</object-name>
+        <diffuse>
+            <red>1.0</red>
+            <green>1.0</green>
+            <blue>1.0</blue>
+        </diffuse>
+        <ambient>
+            <red>0.8</red>
+            <green>0.8</green>
+            <blue>0.8</blue>
+            <factor-prop>sim/scenery/shelter_type_01/scene_light_factor</factor-prop>
+        </ambient>
+        <specular>
+            <red>1.0</red>
+            <green>1.0</green>
+            <blue>1.0</blue>
+        </specular>
+        <emission>
+            <red-prop>sim/scenery/shelter_type_01/neon_light_emission_red</red-prop>
+            <green-prop>sim/scenery/shelter_type_01/neon_light_emission_green</green-prop>
+            <blue-prop>sim/scenery/shelter_type_01/neon_light_emission_blue</blue-prop>
+            <factor-prop>sim/scenery/shelter_type_01/neon_light_mirror</factor-prop>
+        </emission>
+    </animation>
+    
+    <animation> 
+        <type>material</type>
+        <object-name>array neon white (Meshed)</object-name>
+        <object-name>array neon white (Mirror #4) (Meshed)</object-name>
+        <diffuse>
+            <red>0.9</red>
+            <green>0.9</green>
+            <blue>0.9</blue>
+            <factor-prop>sim/scenery/shelter_type_01/neon_light_diffuse</factor-prop>
+        </diffuse>
+        <ambient>
+            <red>0.8</red>
+            <green>0.8</green>
+            <blue>0.8</blue>
+            <factor-prop>sim/scenery/shelter_type_01/neon_light_diffuse</factor-prop>
+        </ambient>
+        <specular>
+            <red>1.0</red>
+            <green>1.0</green>
+            <blue>1.0</blue>
+            <factor-prop>sim/scenery/shelter_type_01/neon_light_diffuse</factor-prop>
+        </specular>
+        <emission>
+            <red-prop>sim/scenery/shelter_type_01/neon_light_emission_red</red-prop>
+            <green-prop>sim/scenery/shelter_type_01/neon_light_emission_green</green-prop>
+            <blue-prop>sim/scenery/shelter_type_01/neon_light_emission_blue</blue-prop>
+            <factor-prop>sim/scenery/shelter_type_01/neon_light_diffuse</factor-prop>
+        </emission>
+    </animation>
+    
+    <animation> 
+        <type>material</type>
+        <object-name>array neon tube (Meshed)</object-name>
+        <object-name>array neon tube (Mirror #3) (Meshed)</object-name>
+        <diffuse>
+            <red>0.0</red>
+            <green>0.0</green>
+            <blue>0.4</blue>
+        </diffuse>
+        <ambient>
+            <red>0.0</red>
+            <green>0.0</green>
+            <blue>0.4</blue>
+            <factor-prop>sim/scenery/shelter_type_01/neon_light_diffuse</factor-prop>
+        </ambient>
+        <specular>
+            <red>0.5</red>
+            <green>0.5</green>
+            <blue>1.0</blue>
+        </specular>
+        <emission>
+            <red-prop>sim/scenery/shelter_type_01/neon_light_emission_red</red-prop>
+            <green-prop>sim/scenery/shelter_type_01/neon_light_emission_green</green-prop>
+            <blue-prop>sim/scenery/shelter_type_01/neon_light_emission_blue</blue-prop>
+            <factor-prop>sim/scenery/shelter_type_01/neon_blue_diffuse</factor-prop>
+        </emission>
+    </animation>
+    
+    <animation> 
+        <type>material</type>
+        <object-name>electric bus (Meshed)</object-name>
+        <object-name>electric bus (Mirror #8) (Meshed)</object-name>
+        <diffuse>
+            <red>0.3</red>
+            <green>0.3</green>
+            <blue>0.3</blue>
+        </diffuse>
+        <ambient>
+            <red>0.2</red>
+            <green>0.2</green>
+            <blue>0.2</blue>
+        </ambient>
+        <specular>
+            <red>0.1</red>
+            <green>0.1</green>
+            <blue>0.1</blue>
+        </specular>
+        <emission>
+            <red-prop>sim/scenery/shelter_type_01/neon_light_emission_red</red-prop>
+            <green-prop>sim/scenery/shelter_type_01/neon_light_emission_green</green-prop>
+            <blue-prop>sim/scenery/shelter_type_01/neon_light_emission_blue</blue-prop>
+            <factor>0.02</factor>
+        </emission>
+    </animation>
+    
+    <animation> 
+        <type>material</type>
+        <object-name>electric box (Meshed)</object-name>
+        <object-name>electric box (Mirror #9) (Meshed)</object-name>
+        <diffuse>
+            <red>0.3</red>
+            <green>0.3</green>
+            <blue>0.1</blue>
+        </diffuse>
+        <ambient>
+            <red>0.3</red>
+            <green>0.3</green>
+            <blue>0.1</blue>
+        </ambient>
+        <specular>
+            <red>0.3</red>
+            <green>0.3</green>
+            <blue>0.3</blue>
+        </specular>
+        <emission>
+            <red-prop>sim/scenery/shelter_type_01/neon_light_emission_red</red-prop>
+            <green-prop>sim/scenery/shelter_type_01/neon_light_emission_green</green-prop>
+            <blue-prop>sim/scenery/shelter_type_01/neon_light_emission_blue</blue-prop>
+            <factor>0.1</factor>
+        </emission>
+    </animation>
+    
+    <animation> 
+        <type>material</type>
+        <object-name>electric box label (Mirror #15) (Meshed)</object-name>
+        <object-name>electric box label (Meshed)</object-name>
+        <diffuse>
+            <red>0.2</red>
+            <green>0.2</green>
+            <blue>0.2</blue>
+        </diffuse>
+        <ambient>
+            <red>0.2</red>
+            <green>0.2</green>
+            <blue>0.2</blue>
+        </ambient>
+        <specular>
+            <red>0.3</red>
+            <green>0.3</green>
+            <blue>0.3</blue>
+        </specular>
+        <emission>
+            <red-prop>sim/scenery/shelter_type_01/neon_light_emission_red</red-prop>
+            <green-prop>sim/scenery/shelter_type_01/neon_light_emission_green</green-prop>
+            <blue-prop>sim/scenery/shelter_type_01/neon_light_emission_blue</blue-prop>
+            <factor>0.05</factor>
+        </emission>
+    </animation>
+    
+    <animation> 
+        <type>material</type>
+        <object-name>profile (Meshed)</object-name>
+        <object-name>profile (Mirror #13) (Meshed)</object-name>
+        <diffuse>
+            <red>0.12</red>
+            <green>0.1</green>
+            <blue>0.1</blue>
+        </diffuse>
+        <ambient>
+            <red>0.24</red>
+            <green>0.2</green>
+            <blue>0.2</blue>
+        </ambient>
+        <specular>
+            <red>0.3</red>
+            <green>0.3</green>
+            <blue>0.3</blue>
+        </specular>
+    </animation>
+    
+    <animation> 
+        <type>material</type>
+        <object-name>profile top (Meshed)</object-name>
+        <object-name>profile top (Mirror #14) (Meshed)</object-name>
+        <diffuse>
+            <red>0.65</red>
+            <green>0.60</green>
+            <blue>0.20</blue>
+        </diffuse>
+        <ambient>
+            <red>0.65</red>
+            <green>0.60</green>
+            <blue>0.20</blue>
+        </ambient>
+        <specular>
+            <red>0.3</red>
+            <green>0.3</green>
+            <blue>0.3</blue>
+        </specular>
+        <emission>
+            <red-prop>sim/scenery/shelter_type_01/neon_light_emission_red</red-prop>
+            <green-prop>sim/scenery/shelter_type_01/neon_light_emission_green</green-prop>
+            <blue-prop>sim/scenery/shelter_type_01/neon_light_emission_blue</blue-prop>
+            <factor>0.1</factor>
+        </emission>
+    </animation>
+    
+    <animation> 
+        <type>material</type>
+        <object-name>electric push top (Meshed)</object-name>
+        <object-name>electric push top (Mirror #10) (Meshed)</object-name>
+        <diffuse>
+            <red>0.1</red>
+            <green>0.3</green>
+            <blue>0.1</blue>
+        </diffuse>
+        <ambient>
+            <red>0.1</red>
+            <green>0.3</green>
+            <blue>0.1</blue>
+        </ambient>
+        <emission>
+            <red>0.3</red>
+            <green>0.9</green>
+            <blue>0.3</blue>
+            <factor-prop>sim/scenery/shelter_type_01/set_light_push_lamp_green</factor-prop>
+        </emission>
+    </animation>
+    
+    <animation>
+        <type>pick</type>
+        <object-name>electric push top (Meshed)</object-name>
+        <object-name>electric push top (Mirror #10) (Meshed)</object-name>
+        <action>
+            <button>0</button>
+            <repeatable>false</repeatable>
+            <interval-sec>0.2</interval-sec>
+            <binding>
+                <command>nasal</command>
+                <script><![CDATA[
+                    var setLight = getprop("sim/scenery/shelter_type_01/set_light");
+                    if (setLight == nil) {
+                        setLight = 4
+                    } elsif (setLight >= 4) {
+                        setLight = 0;
+                    } elsif (setLight < 4) {
+                        setLight = 4;
+                    };
+                    setprop("sim/scenery/shelter_type_01/set_light",setLight);
+                ]]></script>
+            </binding>
+        </action>
+    </animation>
+    
+    <animation> 
+        <type>material</type>
+        <object-name>electric push neon (Meshed)</object-name>
+        <object-name>electric push neon (Mirror #11) (Meshed)</object-name>
+        <diffuse>
+            <red>0.3</red>
+            <green>0.25</green>
+            <blue>0.1</blue>
+        </diffuse>
+        <ambient>
+            <red>0.3</red>
+            <green>0.25</green>
+            <blue>0.1</blue>
+        </ambient>
+        <emission>
+            <red>0.7</red>
+            <green>0.5</green>
+            <blue>0.2</blue>
+            <factor-prop>sim/scenery/shelter_type_01/set_light_push_lamp_yellow</factor-prop>
+        </emission>
+    </animation>
+    
+    <animation>
+        <type>pick</type>
+        <object-name>electric push neon (Meshed)</object-name>
+        <object-name>electric push neon (Mirror #11) (Meshed)</object-name>
+        <action>
+            <button>0</button>
+            <repeatable>false</repeatable>
+            <interval-sec>0.2</interval-sec>
+            <binding>
+                <command>nasal</command>
+                <script><![CDATA[
+                    var setLight = getprop("sim/scenery/shelter_type_01/set_light");
+                    if (setLight == nil or setLight == 0) {
+                        setLight = 1
+                    } elsif (setLight == 4) {
+                        setLight = 2;
+                    } elsif (setLight == 3) {
+                        setLight = 1;
+                    } else {
+                        setLight = 0;
+                    };
+                    setprop("sim/scenery/shelter_type_01/set_light",setLight);
+                ]]></script>
+            </binding>
+        </action>
+    </animation>
+    
+    <animation> 
+        <type>material</type>
+        <object-name>electric push neon night (Meshed)</object-name>
+        <object-name>electric push neon night (Mirror #12) (Meshed)</object-name>
+        <diffuse>
+            <red>0.3</red>
+            <green>0.3</green>
+            <blue>0.9</blue>
+        </diffuse>
+        <ambient>
+            <red>0.3</red>
+            <green>0.3</green>
+            <blue>0.9</blue>
+        </ambient>
+        <emission>
+            <red>0.2</red>
+            <green>0.2</green>
+            <blue>0.9</blue>
+            <factor-prop>sim/scenery/shelter_type_01/set_light_push_lamp_blue</factor-prop>
+        </emission>
+    </animation>
+    
+    <animation>
+        <type>pick</type>
+        <object-name>electric push neon night (Meshed)</object-name>
+        <object-name>electric push neon night (Mirror #12) (Meshed)</object-name>
+        <action>
+            <button>0</button>
+            <repeatable>false</repeatable>
+            <interval-sec>0.2</interval-sec>
+            <binding>
+                <command>nasal</command>
+                <script><![CDATA[
+                    var setLight = getprop("sim/scenery/shelter_type_01/set_light");
+                    if (setLight == nil) {
+                        setLight = 3
+                    } elsif (setLight == 3) {
+                        setLight = 0;
+                    } else {
+                        setLight = 3;
+                    };
+                    setprop("sim/scenery/shelter_type_01/set_light",setLight);
+                ]]></script>
+            </binding>
+        </action>
+    </animation>
+
+    
+</PropertyList>
