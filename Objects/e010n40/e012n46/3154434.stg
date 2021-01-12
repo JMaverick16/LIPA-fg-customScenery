@@ -408,7 +408,7 @@ OBJECT_SHARED Models/Military/ArmedGuard.xml 12.5918057 46.0305193 107.47 0
 OBJECT_SHARED Models/Military/ArmedGuard.xml 12.7298268 46.1234555 238.38 0
 OBJECT_SHARED Models/Misc/church36m_red.ac 12.589366 46.068348 158.52 65
 OBJECT_SHARED Models/Misc/church36m_blue.ac 12.573295 46.088159 328.82 242
-OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.5790178 46.0239732 94.64 289.5
+#OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.5790178 46.0239732 94.64 289.5
 OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.5791329 46.0234862 94.25 272.6
 OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.5792264 46.0246049 95.33 216
 OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.5800389 46.0244133 95.6 152
@@ -741,6 +741,7 @@ OBJECT_SHARED Models/Military_Shelter/Military_shelter_lights_base.xml 12.590043
 OBJECT_SHARED Models/Military_Shelter/Military_shelter_lights_base.xml 12.58759666 46.01744948 92.8465 190.0 0.0 -0.0
 OBJECT_SHARED Models/Military_Shelter/Military_shelter_lights_base.xml 12.58630279 46.01746370 92.1618 174.9 0.0 -0.0
 OBJECT_SHARED Models/Military_Shelter/Military_shelter_lights_base.xml 12.58448498 46.01803743 91.9041 277.0 0.0 -0.0
+OBJECT_SHARED Models/Military_Shelter/Military_shelter_lights_base.xml 12.57884535 46.02399383 94.8803 199.9 0.0 -0.0
 #OBJECT_SHARED Models/AirBase/klsv-tower.xml 12.603791 46.028797 112.0743 221.8 0.0 -0.0
 OBJECT_SHARED Models/Airport/kdp_start.ac 12.61425102 46.03703293 142.6722 220.2 0.0 -0.0
 OBJECT_SHARED Models/Military/beacon-mil-nt.xml 12.61427630 46.03701060 148.3531 0.0 0.0 -0.0 
