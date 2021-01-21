@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<!-- LIPA groundnet v3.6, by Viper Marsdolphin, J Maverick 16 -->
+<!-- LIPA groundnet v3.6.5, by Viper, Marsdolphin, J Maverick 16 -->
 <groundnet>
   <version>1</version>
   <parkingList>
@@ -34,12 +34,12 @@
 		<Parking index="29" type="hangar" name="Nickel9" lat="N46 1.2799" lon="E12 35.4372" heading="163"  radius="17" airlineCodes="" />
 		<Parking index="30" type="hangar" name="Nickel10" lat="N46 1.2593" lon="E12 35.3452" heading="163.4"  radius="17" airlineCodes="" />
 		<Parking index="31" type="hangar" name="Nickel11" lat="N46 1.285" lon="E12 35.2333" heading="021"  radius="17" airlineCodes="" />
-		<Parking index="32" type="ramp" name="Pax Term" lat="N46 1.9917" lon="E12 35.6267" heading="045"  radius="33" airlineCodes="" />
-		<Parking index="33" type="ramp" name="Cargo1" lat="N46 2.0583" lon="E12 35.735" heading="045"  radius="30" airlineCodes="" />
-		<Parking index="34" type="ramp" name="Cargo2" lat="N46 2.125" lon="E12 35.8483" heading="045"  radius="30" airlineCodes="" />
-		<Parking index="35" type="ramp" name="Cargo3" lat="N46 2.111" lon="E12 36.4464" heading="318"  radius="30" airlineCodes="" />
-		<Parking index="36" type="ramp" name="Cargo4" lat="N46 2.1572" lon="E12 36.5189" heading="316"  radius="30" airlineCodes="" />
-		<Parking index="37" type="ramp" name="Cargo5" lat="N46 1.993" lon="E12 36.2507" heading="316"  radius="30" airlineCodes="" />
+		<Parking index="32" type="ramp" name="StratPad1" lat="N46 1.9917" lon="E12 35.6267" heading="045"  radius="33" airlineCodes="" />
+		<Parking index="33" type="ramp" name="StratPad2" lat="N46 2.0583" lon="E12 35.735" heading="045"  radius="30" airlineCodes="" />
+		<Parking index="34" type="ramp" name="StratPad3" lat="N46 2.125" lon="E12 35.8483" heading="045"  radius="30" airlineCodes="" />
+		<Parking index="35" type="ramp" name="NATOPad9" lat="N46 2.111" lon="E12 36.4464" heading="318"  radius="30" airlineCodes="" />
+		<Parking index="36" type="ramp" name="NATOPad11" lat="N46 2.1572" lon="E12 36.5189" heading="316"  radius="30" airlineCodes="" />
+		<Parking index="37" type="ramp" name="NATOPad14" lat="N46 1.993" lon="E12 36.2507" heading="316"  radius="30" airlineCodes="" />
 		<Parking index="38" type="gate" name="Heli1" lat="N46 2.3667" lon="E12 36.3367" heading="136"  radius="17" airlineCodes="" />
 		<Parking index="39" type="gate" name="Heli2" lat="N46 2.385" lon="E12 36.3683" heading="138"  radius="17" airlineCodes="" />
 		<Parking index="40" type="gate" name="Heli3" lat="N46 2.4633" lon="E12 36.4833" heading="139"  radius="17" airlineCodes="" />
@@ -56,9 +56,9 @@
 		<Parking index="51" type="hangar" name="Hangar9" lat="N46 1.8856" lon="E12 36.3767" heading="240"  radius="17" airlineCodes="" />
 		<Parking index="52" type="hangar" name="Hangar10" lat="N46 1.7927" lon="E12 36.3115" heading="310"  radius="17" airlineCodes="" />
 		<Parking index="53" type="hangar" name="Hangar11" lat="N46 1.7687" lon="E12 36.2271" heading="320"  radius="17" airlineCodes="" />
-		<Parking index="54" type="ramp" name="Ramp1" lat="N46 1.4185" lon="E12 35.4313" heading="320"  radius="17" airlineCodes="" />
-		<Parking index="55" type="ramp" name="Ramp2" lat="N46 1.81" lon="E12 36.1102" heading="130"  radius="17" airlineCodes="" />
-		<Parking index="56" type="ramp" name="Ramp3" lat="N46 1.9606" lon="E12 36.4097" heading="277"  radius="17" airlineCodes="" />
+		<Parking index="54" type="ramp" name="PHCargoPad" lat="N46 1.4185" lon="E12 35.4313" heading="320"  radius="17" airlineCodes="" />
+		<Parking index="55" type="ramp" name="TWLPad1" lat="N46 1.81" lon="E12 36.1102" heading="130"  radius="17" airlineCodes="" />
+		<Parking index="56" type="ramp" name="TWLPad2" lat="N46 1.9606" lon="E12 36.4097" heading="277"  radius="17" airlineCodes="" />
 		<Parking index="57" type="ramp" name="BuzzardEOR1" lat="N46 1.5024" lon="E12 34.9790" heading="180"  radius="17" airlineCodes="" />
 		<Parking index="58" type="ramp" name="BuzzardEOR2" lat="N46 1.4984" lon="E12 34.9640" heading="180"  radius="17" airlineCodes="" />
 		<Parking index="59" type="ramp" name="BuzzardEOR3" lat="N46 1.4492" lon="E12 34.9613" heading="180"  radius="17" airlineCodes="" />
