@@ -255,8 +255,8 @@ OBJECT_SHARED Models/Military/h-shaped-appt-building.xml 12.6130575 46.0321174 1
 OBJECT_SHARED Models/Military/h-shaped-appt-building.xml 12.6131081 46.0340463 120.58 272
 OBJECT_SHARED Models/Military/h-shaped-appt-building.xml 12.6139367 46.0313836 118.88 0
 OBJECT_SHARED Models/Military/old-shelter-sand.ac 12.6046835 46.0214551 105.98 43
-OBJECT_SHARED Models/Aircraft/F-15-lowpoly.xml 12.6030608 46.0309602 113.54 230
-OBJECT_SHARED Models/Aircraft/F-15-lowpoly.xml 12.6032479 46.031116 113.78 230
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 12.6030608 46.0309602 113.54 230
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 12.6032479 46.031116 113.78 230
 OBJECT_SHARED Models/Aircraft/KC-135-lowpoly.xml 12.6101625 46.0364804 122.17 41.6
 OBJECT_SHARED Models/Military/tower-usaf-40m.xml 12.603791 46.028797 106.87 26
 OBJECT_SHARED Models/Airport/helipad_square.xml 12.6099297 46.0465239 132.39 79.9
