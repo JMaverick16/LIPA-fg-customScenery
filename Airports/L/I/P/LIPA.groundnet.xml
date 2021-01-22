@@ -37,9 +37,9 @@
 		<Parking index="32" type="ramp" name="StratPad1" lat="N46 1.9917" lon="E12 35.6267" heading="045"  radius="33" airlineCodes="" />
 		<Parking index="33" type="ramp" name="StratPad2" lat="N46 2.0583" lon="E12 35.735" heading="045"  radius="30" airlineCodes="" />
 		<Parking index="34" type="ramp" name="StratPad3" lat="N46 2.125" lon="E12 35.8483" heading="045"  radius="30" airlineCodes="" />
-		<Parking index="35" type="ramp" name="NATOPad7" lat="N46 2.069" lon="E12 36.379" heading="318"  radius="30" airlineCodes="" />
-		<Parking index="36" type="ramp" name="NATOPad9" lat="N46 2.111" lon="E12 36.4464" heading="318"  radius="30" airlineCodes="" />
-		<Parking index="37" type="ramp" name="NATOPad11" lat="N46 2.1572" lon="E12 36.5189" heading="316"  radius="30" airlineCodes="" />
+		<Parking index="35" type="ramp" name="NATOPad9" lat="N46 2.1572" lon="E12 36.5189" heading="316"  radius="30" airlineCodes="" />
+		<Parking index="36" type="ramp" name="NATOPad11" lat="N46 2.111" lon="E12 36.4464" heading="318"  radius="30" airlineCodes="" />
+		<Parking index="37" type="ramp" name="NATOPad13" lat="N46 2.069" lon="E12 36.379" heading="318"  radius="30" airlineCodes="" />
 		<Parking index="38" type="ramp" name="NATOPad14" lat="N46 1.993" lon="E12 36.2507" heading="317"  radius="30" airlineCodes="" />
 		<Parking index="39" type="ramp" name="NATOPad15" lat="N46 1.9701" lon="E12 36.212" heading="317"  radius="30" airlineCodes="" />
 		<Parking index="40" type="ramp" name="NATOPad16" lat="N46 1.9481" lon="E12 36.1775" heading="318"  radius="30" airlineCodes="" />
