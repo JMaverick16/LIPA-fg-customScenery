@@ -9,8 +9,8 @@ The following airports are included: LIPA, LIPI, LIPD, LIDK, LIPG, LIPS, LIDB, L
 
 Installation instructions
 -------------------------
-After unzipping the package, select it via the FG launcher in the Scenery add-on section.
-To see the OSM2city pylons, enable time in-sim on the menu at View>Rendering Options>Powerlines.
+After unzipping the package, select it via the FG launcher in the Add-ons -> Additional scenery folders section.
+To see the OSM2city pylons, enable them in-sim on the menu at View -> Rendering Options -> Pylons.
 Since December 2020, the AirBase models pack has been included directly in the repository, therefore no additional installation packs are required.
 
 Licenses
