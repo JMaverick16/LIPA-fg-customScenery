@@ -239,9 +239,9 @@ OBJECT_SHARED Models/Military/radar-mil-1.xml 12.6018261 46.0423948 123.72 12
 OBJECT_SHARED Models/Military/us-hush-house-hangar-sand.xml 12.5787923 46.0243956 94.91 244
 OBJECT_SHARED Models/Military/usaf-water-tower-39m.xml 12.606007 46.049456 125.06 263.2
 OBJECT_SHARED Models/Military/usaf-water-tower-39m.xml 12.6076802 46.0420062 126.5 324
-OBJECT_SHARED Models/Military/mil-hangar-60x70-sand.xml 12.6055253 46.0401369 123.54 41.7
-OBJECT_SHARED Models/Military/mil-hangar-60x70-sand.xml 12.6076096 46.04147 125.93 41.7
-OBJECT_SHARED Models/Military/mil-hangar-60x70-sand.xml 12.6097388 46.0428148 128.34 41.7
+OBJECT_SHARED Models/Military/mil-hangar-60x70-sand.ac 12.6055253 46.0401369 123.54 41.7
+OBJECT_SHARED Models/Military/mil-hangar-60x70-sand.ac 12.6076096 46.04147 125.93 41.7
+OBJECT_SHARED Models/Military/mil-hangar-60x70-sand.ac 12.6097388 46.0428148 128.34 41.7
 OBJECT_SHARED Models/Military/h-shaped-appt-building.xml 12.6089705 46.0327617 117.88 0
 OBJECT_SHARED Models/Military/h-shaped-appt-building.xml 12.6100411 46.0334756 118.06 88
 OBJECT_SHARED Models/Military/h-shaped-appt-building.xml 12.6109542 46.0327021 118.39 0
