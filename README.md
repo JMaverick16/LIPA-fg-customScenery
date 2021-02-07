@@ -5,7 +5,7 @@ Add-on scenery package that improves the already-existing work available on Terr
 Overview
 -------------------------
 This repository contains additional static objects, improved airport data (tower position and elevation, parking positions, etc.) and OSM2city.py pylons for Aviano Air Base (LIPA), nearby airports and surrounding Italian territory and the Aviano-Piancavallo road.
-The following airports are included: LIPA, LIPI, LIPD, LIDK, LIPG, LIPS, LIDB, LIPB.
+The following airports are included: LIPA, LIPI, LIPD, LIDK, LIPG, LIPS, LIDB, LIPB, LIDA.
 
 Installation instructions
 -------------------------
