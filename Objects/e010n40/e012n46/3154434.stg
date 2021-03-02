@@ -695,7 +695,7 @@ OBJECT_SHARED Models/AirBase/klsv-radio-station-south-1.xml 12.60028334 46.03046
 OBJECT_SHARED Models/AirBase/klsv-workshop-2-red.xml 12.58322278 46.01683913 89.6124 61.8 0.0 -0.0
 OBJECT_SHARED Models/AirBase/klsv-radio-station-south-1.xml 12.58561802 46.02162726 95.9190 310.8 0.0 -0.0
 OBJECT_SHARED Models/Agriculture/farmhouse1.ac 12.57365877 46.02072451 87.0295 149.5 0.0 -0.0
-OBJECT_SHARED Models/Industrial/generic_crane_01.ac 12.58748036 46.02014571 2.2599 110.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/generic_crane_01.ac 12.61293027 46.03595710 44.0484 8.0 0.0 -0.0
 OBJECT_SHARED Models/Industrial/Crane-100m.xml 12.60184755 46.04101230 80.2265 325.5 0.0 -0.0
 OBJECT_SHARED Models/Industrial/wood_chip_heap_small.ac 12.60157921 46.04040107 103.0754 230.8 0.0 -0.0
 OBJECT_SHARED Models/Industrial/wood_chip_heap_small.ac 12.58768276 46.02004732 73.7181 23.7 0.0 -0.0
@@ -788,3 +788,5 @@ OBJECT_SHARED Models/AirBase/klsv-building-a10.xml 12.60447513 46.04418138 127.2
 OBJECT_SHARED Models/AirBase/klsv-small-building-1.xml 12.60863733 46.04158381 126.9365 222.0 0.0 -0.0
 OBJECT_SHARED Models/AirBase/klsv-grp.xml 12.60697800 46.04130102 125.3782 312.0 0.0 -0.0
 OBJECT_SHARED Models/AirBase/klsv-workshop-1.xml 12.60951822 46.04338697 128.5649 132.0 0.0 -0.0
+OBJECT_SHARED Models/Military/SPAF_Barracks_1.xml 12.61359055 46.03663473 125.6291 311.5 0.0 -0.0
+OBJECT_SHARED Models/Military/SPAF_Barracks_1.xml 12.61318918 46.03639091 125.3416 311.5 0.0 -0.0
