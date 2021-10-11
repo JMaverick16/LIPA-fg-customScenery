@@ -70,6 +70,6 @@
 		<Parking index="65" type="ramp" name="BuzzardEOR3" lat="N46 1.4492" lon="E12 34.9613" heading="180"  radius="17" airlineCodes="" />
 		<Parking index="66" type="ramp" name="NickelEOR1" lat="N46 1.369" lon="E12 35.0625" heading="345"  radius="17" airlineCodes="" />
 		<Parking index="67" type="ramp" name="NickelEOR2" lat="N46 1.365" lon="E12 35.0510" heading="345"  radius="17" airlineCodes="" />
-		<Parking index="67" type="ramp" name="NickelEOR3" lat="N46 1.249" lon="E12  35.0396" heading="320"  radius="17" airlineCodes="" />
+		<Parking index="68" type="ramp" name="NickelEOR3" lat="N46 1.249" lon="E12  35.0396" heading="320"  radius="17" airlineCodes="" />
  </parkingList>
 </groundnet>
