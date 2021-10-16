@@ -18,159 +18,159 @@ OBJECT_SHARED Models/Aircraft/ARFF-trainer.xml 12.5782162 46.0250305 94.68 156
 OBJECT_SHARED Models/Agriculture/PolyTunnel7.5x32.ac 12.5846745 46.0156273 88.84 324
 OBJECT_SHARED Models/Agriculture/PolyTunnel7.5x32.ac 12.5847524 46.0155858 88.91 324
 OBJECT_SHARED Models/Commercial/Petrolstation2.ac 12.6144981 46.0378574 126.3 120
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5777495 46.0265835 95.79 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5782236 46.0271701 96.46 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5782837 46.0272391 96.51 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5783513 46.0273229 96.38 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5803229 46.0269895 98.35 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5803848 46.0291414 101.41 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5805476 46.0272203 98.75 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5807752 46.0274408 99.14 0
-#OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5812689 46.0299195 101.57 0
-#OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5814673 46.0299383 101.68 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5823628 46.0185394 91.13 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5824981 46.0184176 91.18 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5825131 46.0187656 91.56 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5826506 46.0185743 91.53 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5827943 46.0187422 91.9 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5848281 46.0171936 89.55 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5850557 46.0317918 104.54 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5852837 46.0318164 104.84 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5854038 46.0170021 89.85 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.585457 46.0316238 104.77 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5856496 46.0315433 104.79 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5858551 46.031575 105.07 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5859044 46.0169389 90.57 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5864604 46.016761 90.67 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5864896 46.0323083 106.48 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5868 46.0323592 106.69 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5871397 46.0323337 106.77 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.587173 46.0167218 90.45 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5876002 46.032267 106.69 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5877487 46.0167894 90.58 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.587789 46.0320684 106.48 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.588106 46.031617 106.15 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.588215 46.0314981 106.25 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5883997 46.0168599 91.16 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5888773 46.0314296 105.86 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5888817 46.0170754 92.16 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5889143 46.0312485 106.14 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.589165 46.0312463 106 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5891789 46.0314171 105.6 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5892857 46.0327535 107.76 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5894334 46.0172471 93.01 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5894491 46.0308338 107.11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5896421 46.0308486 107.25 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5898692 46.0174211 93.37 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5902805 46.0176275 93.9 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5906072 46.0179407 94.69 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5909978 46.0182492 94.88 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5913301 46.0185767 95.05 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5914933 46.0188857 95.27 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5917877 46.0191954 95.57 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5919819 46.0195485 96.55 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5920876 46.019844 97.38 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5924061 46.0200759 98.04 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5924694 46.0205428 98.36 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5924796 46.0213429 98.65 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5924796 46.0225111 99.09 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5924803 46.0203315 98.27 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5924888 46.0219283 98.86 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5924898 46.020758 98.42 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5924938 46.0221744 98.95 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5925047 46.0210309 98.51 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5925095 46.021625 98.73 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5946713 46.0361273 113.63 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5948089 46.0361403 113.8 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5948132 46.0362283 113.8 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5981909 46.0252764 105.51 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5985159 46.02558 106.27 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5988428 46.0258685 106.99 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5991524 46.0261455 107.68 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5995072 46.0264736 108.5 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.5999897 46.0268599 108.8 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6003142 46.0271779 109.26 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6005819 46.0380382 117.54 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6007181 46.0275376 109.25 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6007376 46.0381379 117.85 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6007398 46.0424924 122.69 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6009514 46.0382765 118.27 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6010593 46.0426861 123.22 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6011617 46.0276685 110.03 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.601371 46.0428892 123.58 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.601599 46.0278076 110.84 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.601691 46.0430758 123.79 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6019223 46.028028 111.13 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6020883 46.043264 124.07 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6021896 46.0282602 111.28 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6024019 46.0434422 124.28 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6024587 46.0396503 120.44 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6024853 46.0285238 111.45 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6026704 46.0393598 121.17 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6027015 46.0436314 124.5 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6027314 46.0287352 111.59 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6027546 46.0392398 121.34 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6029585 46.0289521 111.74 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6030566 46.0438024 124.83 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6033716 46.0289761 111.75 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6034528 46.0439602 125.2 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6037111 46.02918 112.06 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.603746 46.0441183 125.49 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6041129 46.0443225 126.19 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.604433 46.0445424 126.9 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6047239 46.0447614 127.5 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6047541 46.0432903 126.22 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6049112 46.0449755 128 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6050819 46.0451939 128.3 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6052392 46.0453751 128.55 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6054153 46.0455624 128.82 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6057744 46.0456684 129.43 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6060163 46.0410961 124.74 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6061607 46.0456415 130.15 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.606459 46.0456728 130.6 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6066982 46.0458191 130.99 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6069414 46.045951 131 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6071252 46.0461045 131 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6071371 46.0468542 131.04 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.607141 46.0465708 131 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6071517 46.0463279 131 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6073338 46.0470328 131.06 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6075594 46.04712 131.21 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6077408 46.0330781 118.4 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.607786 46.0328186 118.47 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.60786 46.0471328 131.51 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.608146 46.047135 131.79 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6083645 46.0472368 131.99 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6086319 46.0472885 132.17 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6088822 46.0472895 132.35 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6091736 46.0472746 132.54 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6094621 46.0472678 132.72 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6097386 46.047278 132.89 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6100392 46.0472452 133.27 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.610351 46.0471975 133.61 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6106594 46.0471556 133.95 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6109955 46.0470799 134.1 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6113228 46.0470142 134.31 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6116235 46.0468975 134.25 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6118433 46.0466833 134.72 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6121796 46.046622 134.46 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6122906 46.0451184 133.75 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6123051 46.0444691 131.65 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6123418 46.0449863 133.5 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6123491 46.0441996 131.11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6123737 46.0464939 134.59 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6123824 46.0448618 133.33 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6123907 46.0445976 132.36 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6124247 46.0445177 132.16 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6124368 46.0444314 131.82 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6125372 46.0463176 134.42 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6125799 46.0453391 134.13 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6126816 46.0441635 131.55 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6127211 46.0440819 131.47 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6127582 46.0462037 134.82 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6128099 46.0455268 134.69 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6128825 46.04602 134.52 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.6128879 46.0457919 134.81 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5777495 46.0265835 95.79 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5782236 46.0271701 96.46 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5782837 46.0272391 96.51 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5783513 46.0273229 96.38 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5803229 46.0269895 98.35 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5803848 46.0291414 101.41 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5805476 46.0272203 98.75 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5807752 46.0274408 99.14 0
+#OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5812689 46.0299195 101.57 0
+#OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5814673 46.0299383 101.68 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5823628 46.0185394 91.13 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5824981 46.0184176 91.18 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5825131 46.0187656 91.56 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5826506 46.0185743 91.53 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5827943 46.0187422 91.9 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5848281 46.0171936 89.55 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5850557 46.0317918 104.54 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5852837 46.0318164 104.84 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5854038 46.0170021 89.85 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.585457 46.0316238 104.77 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5856496 46.0315433 104.79 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5858551 46.031575 105.07 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5859044 46.0169389 90.57 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5864604 46.016761 90.67 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5864896 46.0323083 106.48 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5868 46.0323592 106.69 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5871397 46.0323337 106.77 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.587173 46.0167218 90.45 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5876002 46.032267 106.69 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5877487 46.0167894 90.58 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.587789 46.0320684 106.48 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.588106 46.031617 106.15 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.588215 46.0314981 106.25 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5883997 46.0168599 91.16 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5888773 46.0314296 105.86 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5888817 46.0170754 92.16 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5889143 46.0312485 106.14 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.589165 46.0312463 106 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5891789 46.0314171 105.6 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5892857 46.0327535 107.76 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5894334 46.0172471 93.01 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5894491 46.0308338 107.11 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5896421 46.0308486 107.25 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5898692 46.0174211 93.37 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5902805 46.0176275 93.9 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5906072 46.0179407 94.69 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5909978 46.0182492 94.88 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5913301 46.0185767 95.05 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5914933 46.0188857 95.27 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5917877 46.0191954 95.57 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5919819 46.0195485 96.55 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5920876 46.019844 97.38 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5924061 46.0200759 98.04 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5924694 46.0205428 98.36 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5924796 46.0213429 98.65 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5924796 46.0225111 99.09 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5924803 46.0203315 98.27 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5924888 46.0219283 98.86 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5924898 46.020758 98.42 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5924938 46.0221744 98.95 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5925047 46.0210309 98.51 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5925095 46.021625 98.73 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5946713 46.0361273 113.63 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5948089 46.0361403 113.8 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5948132 46.0362283 113.8 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5981909 46.0252764 105.51 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5985159 46.02558 106.27 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5988428 46.0258685 106.99 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5991524 46.0261455 107.68 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5995072 46.0264736 108.5 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.5999897 46.0268599 108.8 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6003142 46.0271779 109.26 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6005819 46.0380382 117.54 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6007181 46.0275376 109.25 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6007376 46.0381379 117.85 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6007398 46.0424924 122.69 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6009514 46.0382765 118.27 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6010593 46.0426861 123.22 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6011617 46.0276685 110.03 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.601371 46.0428892 123.58 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.601599 46.0278076 110.84 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.601691 46.0430758 123.79 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6019223 46.028028 111.13 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6020883 46.043264 124.07 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6021896 46.0282602 111.28 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6024019 46.0434422 124.28 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6024587 46.0396503 120.44 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6024853 46.0285238 111.45 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6026704 46.0393598 121.17 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6027015 46.0436314 124.5 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6027314 46.0287352 111.59 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6027546 46.0392398 121.34 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6029585 46.0289521 111.74 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6030566 46.0438024 124.83 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6033716 46.0289761 111.75 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6034528 46.0439602 125.2 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6037111 46.02918 112.06 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.603746 46.0441183 125.49 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6041129 46.0443225 126.19 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.604433 46.0445424 126.9 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6047239 46.0447614 127.5 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6047541 46.0432903 126.22 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6049112 46.0449755 128 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6050819 46.0451939 128.3 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6052392 46.0453751 128.55 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6054153 46.0455624 128.82 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6057744 46.0456684 129.43 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6060163 46.0410961 124.74 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6061607 46.0456415 130.15 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.606459 46.0456728 130.6 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6066982 46.0458191 130.99 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6069414 46.045951 131 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6071252 46.0461045 131 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6071371 46.0468542 131.04 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.607141 46.0465708 131 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6071517 46.0463279 131 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6073338 46.0470328 131.06 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6075594 46.04712 131.21 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6077408 46.0330781 118.4 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.607786 46.0328186 118.47 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.60786 46.0471328 131.51 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.608146 46.047135 131.79 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6083645 46.0472368 131.99 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6086319 46.0472885 132.17 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6088822 46.0472895 132.35 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6091736 46.0472746 132.54 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6094621 46.0472678 132.72 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6097386 46.047278 132.89 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6100392 46.0472452 133.27 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.610351 46.0471975 133.61 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6106594 46.0471556 133.95 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6109955 46.0470799 134.1 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6113228 46.0470142 134.31 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6116235 46.0468975 134.25 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6118433 46.0466833 134.72 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6121796 46.046622 134.46 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6122906 46.0451184 133.75 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6123051 46.0444691 131.65 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6123418 46.0449863 133.5 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6123491 46.0441996 131.11 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6123737 46.0464939 134.59 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6123824 46.0448618 133.33 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6123907 46.0445976 132.36 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6124247 46.0445177 132.16 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6124368 46.0444314 131.82 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6125372 46.0463176 134.42 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6125799 46.0453391 134.13 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6126816 46.0441635 131.55 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6127211 46.0440819 131.47 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6127582 46.0462037 134.82 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6128099 46.0455268 134.69 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6128825 46.04602 134.52 0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.6128879 46.0457919 134.81 0
 OBJECT_SHARED Models/Communications/tower-unstayed-200m-grey-unlit.xml 12.5312563 46.0941506 1344.42 352
 OBJECT_SHARED Models/Communications/tower-unstayed-200m-striped-unlit.xml 12.5316019 46.0940786 1342.9 344
 OBJECT_SHARED Models/Boundaries/Cone.ac 12.5918136 46.0305291 107.48 312
@@ -791,14 +791,14 @@ OBJECT_SHARED Models/Military/SPAF_Barracks_1.xml 12.61318918 46.03639091 125.34
 OBJECT_SHARED Models/Transport/Norberttruck.xml 12.58306653 46.01709010 89.9783 331.8 0.0 -0.0
 OBJECT_SHARED Models/Transport/comtruckwhite1.ac 12.58339761 46.01695568 90.0507 332.0 0.0 -0.0
 OBJECT_SHARED Models/Airport/fedextruck.xml 12.58362647 46.01710545 90.6209 153.9 0.0 -0.0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.58357693 46.01656385 88.9641 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.58377221 46.01663737 88.9789 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.58401590 46.01673744 89.0916 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.58357693 46.01656385 88.9641 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.58377221 46.01663737 88.9789 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.58401590 46.01673744 89.0916 0.0 0.0 -0.0
 OBJECT_SHARED Models/Military/RAFWorkshop.xml 12.61460755 46.03636933 125.5900 42.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.61382850 46.03777769 126.0248 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.61371137 46.03726417 125.9206 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.61391025 46.03707228 125.8457 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.61391230 46.03771273 126.0433 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.61382850 46.03777769 126.0248 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.61371137 46.03726417 125.9206 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.61391025 46.03707228 125.8457 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.61391230 46.03771273 126.0433 0.0 0.0 -0.0
 OBJECT_SHARED Models/Agriculture/ChickenBarn_130x18m.ac 12.57985545 46.02918205 100.8062 61.5 0.0 -0.0
 OBJECT_SHARED Models/Agriculture/ChickenBarn_130x18m.ac 12.58015808 46.02943597 101.3624 61.5 0.0 -0.0
 OBJECT_SHARED Models/Agriculture/ChickenBarn_130x18m.ac 12.58031749 46.02963652 101.5177 61.5 0.0 -0.0
@@ -807,26 +807,26 @@ OBJECT_SHARED Models/Agriculture/ChickenBarn_130x18m.ac 12.58071182 46.03008122 
 OBJECT_SHARED Models/Agriculture/ChickenBarn_130x18m.ac 12.58005170 46.02903408 101.7325 330.1 0.0 -0.0
 OBJECT_SHARED Models/Agriculture/brick-farm.ac 12.57975429 46.03079710 98.0555 60.2 0.0 -0.0
 OBJECT_SHARED Models/Agriculture/farmhouse4-white.ac 12.58136733 46.03066412 101.9333 329.3 0.0 -0.0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.58048942 46.02927809 101.5076 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.58065119 46.02948019 101.7378 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.58084769 46.02972834 101.4704 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.58019233 46.02892322 101.1041 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.58103812 46.02995878 101.7332 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.58126771 46.03025910 101.9793 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.58150693 46.03056836 102.0558 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.58172916 46.03085469 102.2132 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.58117685 46.03072559 101.9474 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.57984434 46.02936774 101.0983 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.57875414 46.02976676 100.9953 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.58037757 46.03004200 101.6402 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.57932357 46.03044426 101.3156 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.57996294 46.03080644 101.3221 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.58031424 46.02876536 101.3108 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.58204167 46.03075941 102.5146 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.57984850 46.03024464 101.4723 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.57929187 46.02957745 101.0832 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.58058659 46.02803934 100.1867 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 12.58060431 46.02844210 101.7194 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.58048942 46.02927809 101.5076 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.58065119 46.02948019 101.7378 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.58084769 46.02972834 101.4704 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.58019233 46.02892322 101.1041 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.58103812 46.02995878 101.7332 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.58126771 46.03025910 101.9793 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.58150693 46.03056836 102.0558 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.58172916 46.03085469 102.2132 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.58117685 46.03072559 101.9474 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.57984434 46.02936774 101.0983 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.57875414 46.02976676 100.9953 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.58037757 46.03004200 101.6402 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.57932357 46.03044426 101.3156 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.57996294 46.03080644 101.3221 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.58031424 46.02876536 101.3108 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.58204167 46.03075941 102.5146 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.57984850 46.03024464 101.4723 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.57929187 46.02957745 101.0832 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.58058659 46.02803934 100.1867 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.58060431 46.02844210 101.7194 0.0 0.0 -0.0
 OBJECT_SHARED Models/AirBase/klsv-small-building-1.xml 12.58573951 46.03048075 104.1603 183.4 0.0 -0.0
 OBJECT_SHARED Models/AirBase/klsv-west-tanks-central.xml 12.59116280 46.02238559 99.5686 39.3 0.0 -0.0
 OBJECT_SHARED Models/AirBase/klsv-workshop-4-red.xml 12.59060494 46.02282662 99.4522 222.0 0.0 -0.0
