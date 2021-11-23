@@ -859,3 +859,4 @@ OBJECT_SHARED Models/AirBase/klsv-workshop-4-red.xml 12.59639446 46.03628284 116
 OBJECT_SHARED Models/AirBase/klsv-radio-station-south-2.xml 12.59654243 46.03695409 115.9960 224.0 0.0 -0.0 
 OBJECT_SHARED Models/Misc/planespotter1.ac 12.57740006 46.01872507 89.1382 94.6 0.0 -0.0
 OBJECT_SHARED Models/Transport/EDDI-Flugverkehr.ac 12.58487920 46.01610317 89.2749 156.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/smoke_small_slow5000.xml 12.60942968 46.04340732 137.4153 0.0 0.0 -0.0
