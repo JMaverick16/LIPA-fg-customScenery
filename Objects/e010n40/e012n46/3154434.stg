@@ -207,7 +207,7 @@ OBJECT_SHARED Models/Communications/mil-antena-45m.xml 12.612385 46.022129 107.5
 OBJECT_SHARED Models/Communications/mil-antena-61m.xml 12.5308573 46.093436 1242.75 48
 OBJECT_SHARED Models/Communications/mil-antena-61m.xml 12.5312583 46.0934889 1242.91 264
 OBJECT_SHARED Models/Communications/mil-antena-61m.xml 12.660504 46.040386 126.47 335
-OBJECT_SHARED Models/Airport/blast-deflector49m.xml 12.58316 46.0192828 92.22 64.5
+OBJECT_SHARED Models/Airport/blast-deflector49m.xml 12.58319722 46.01930411 92.2438 64.5
 OBJECT_SHARED Models/Military/coleman-tow-tractor-odrab-low-poly.xml 12.5786758 46.0267912 96.96 148
 OBJECT_SHARED Models/Military/coleman-tow-tractor-odrab-low-poly.xml 12.5812384 46.0294586 100.66 0.5
 OBJECT_SHARED Models/Military/coleman-tow-tractor-odrab-low-poly.xml 12.5812846 46.029459 100.68 0.5
@@ -364,7 +364,7 @@ OBJECT_SHARED Models/Airport/bird_scarer.ac 12.5880384 46.0193965 94.85 0
 OBJECT_SHARED Models/StreetFurniture/Stop-Sign.ac 12.5918767 46.0305518 107.53 132
 OBJECT_SHARED Models/Airport/EDDI-Stop-Sign.ac 12.729222 46.122515 238.74 228
 OBJECT_SHARED Models/Airport/anemometer_10m.xml 12.5860704 46.02329492 97.79 311.1
-OBJECT_SHARED Models/Airport/EHLE_hangar_1.ac 12.5826106 46.0190176 91.88 67.1
+#OBJECT_SHARED Models/Airport/EHLE_hangar_1.ac 12.5826106 46.0190176 91.88 67.1
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 12.5787293 46.0268149 97.01 209
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 12.5795909 46.0264704 97.19 209
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 12.5833486 46.0192985 92.43 28.5
@@ -859,4 +859,12 @@ OBJECT_SHARED Models/AirBase/klsv-workshop-4-red.xml 12.59639446 46.03628284 116
 OBJECT_SHARED Models/AirBase/klsv-radio-station-south-2.xml 12.59654243 46.03695409 115.9960 224.0 0.0 -0.0 
 OBJECT_SHARED Models/Misc/planespotter1.ac 12.57740006 46.01872507 89.1382 94.6 0.0 -0.0
 OBJECT_SHARED Models/Transport/EDDI-Flugverkehr.ac 12.58487920 46.01610317 89.2749 156.0 0.0 -0.0
+OBJECT_SHARED Models/AirBase/klsv-building-2.xml 12.58298775 46.01906675 92.1476 64.2 0.0 -0.0
+OBJECT_SHARED Models/AirBase/klsv-small-vehicle-hangar.xml 12.58306894 46.01885255 92.2060 333.9 0.0 -0.0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.58297404 46.01895013 92.1727 0.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 12.58275052 46.01901551 91.9973 334.9 0.0 -0.0
+OBJECT_SHARED Models/Military/humvee-pickup-odrab-low-poly.xml 12.58356307 46.01919496 92.3304 291.2 0.0 -0.0
+OBJECT_SHARED Models/Communications/Antenna-House.ac 12.58351967 46.01925757 92.0730 64.4 0.0 -0.0
+OBJECT_SHARED Models/LIPA/555lowsign.xml 12.58343566 46.01899820 92.0588 334.8 0.0 -0.0
+OBJECT_SHARED Models/AirBase/klsv-small-building-1.xml 12.58257818 46.01918539 92.0895 154.9 0.0 -0.0
 OBJECT_SHARED Models/Effects/smoke_small_slow5000.xml 12.60942968 46.04340732 137.4153 0.0 0.0 -0.0
