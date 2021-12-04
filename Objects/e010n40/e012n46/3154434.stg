@@ -220,7 +220,7 @@ OBJECT_SHARED Models/Military/coleman-tow-tractor-odrab-low-poly.xml 12.5945941 
 OBJECT_SHARED Models/Military/coleman-tow-tractor-odrab-low-poly.xml 12.6013785 46.0301436 111.99 48.8
 OBJECT_SHARED Models/Military/coleman-tow-tractor-odrab-low-poly.xml 12.6097583 46.0419904 127.52 0
 OBJECT_SHARED Models/Military/coleman-tow-tractor-odrab-low-poly.xml 12.6098028 46.0419587 127.51 0
-OBJECT_SHARED Models/Military/fuel-truck-medpoly.xml 12.5832342 46.0197096 92.7 155.6
+#OBJECT_SHARED Models/Military/fuel-truck-medpoly.xml 12.5832342 46.0197096 92.7 155.6
 OBJECT_SHARED Models/Military/fuel-truck-medpoly.xml 12.5904747 46.0314714 107.57 96
 OBJECT_SHARED Models/Military/fuel-truck-medpoly.xml 12.5905221 46.0314343 107.56 96
 OBJECT_SHARED Models/Military/fuel-truck-medpoly.xml 12.5905725 46.0313951 107.56 96
@@ -466,7 +466,9 @@ OBJECT_SHARED Models/Military/TAB-VEE-B_Shelter.xml 12.581232 46.0288572 100.3 3
 OBJECT_SHARED Models/Military/TAB-VEE-B_Shelter.xml 12.5812953 46.027865 99.49 351.7
 OBJECT_SHARED Models/Military/TAB-VEE-B_Shelter.xml 12.5820425 46.0298357 101.58 316
 OBJECT_SHARED Models/Military/TAB-VEE-B_Shelter.xml 12.5830744 46.0285838 101.11 88
-OBJECT_SHARED Models/Military/TAB-VEE-B_Shelter.xml 12.5831379 46.0199719 93.07 260
+#OBJECT_SHARED Models/Military/TAB-VEE-B_Shelter.xml 12.5831379 46.0199719 93.07 260
+#Replacement of the above one
+OBJECT_SHARED Models/Military/TAB-VEE-B_Shelter.xml 12.58310620 46.02005472 93.2860 243.8
 OBJECT_SHARED Models/Military/TAB-VEE-B_Shelter.xml 12.583147 46.030685 102.91 292
 OBJECT_SHARED Models/Military/TAB-VEE-B_Shelter.xml 12.5835045 46.0267963 99.8 170
 OBJECT_SHARED Models/Military/TAB-VEE-B_Shelter.xml 12.583893 46.0273639 100.51 92
@@ -704,7 +706,6 @@ OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.ac 12.58524822 46.02176494 95.8
 OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.ac 12.58574513 46.02205420 96.3678 40.0 0.0 -0.0
 OBJECT_SHARED Models/Boundaries/Fence-10m-grayBW.xml 12.58604329 46.02222821 96.7542 40.0 0.0 -0.0
 OBJECT_SHARED Models/Transport/pickupwhite.ac 12.58361197 46.01891281 92.0403 288.2 0.0 -0.0
-OBJECT_SHARED Models/Transport/van_blue_dirty.ac 12.58330607 46.01979850 92.8400 80.4 0.0 -0.0
 OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.ac 12.59176120 46.03078284 107.6718 311.7 0.0 -0.0
 OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.ac 12.59147335 46.03059197 107.3457 311.8 0.0 -0.0
 OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.ac 12.59104296 46.03092769 107.4111 311.8 0.0 -0.0
@@ -770,7 +771,7 @@ OBJECT_SHARED Models/Military/beacon-mil-nt.xml 12.61427630 46.03701060 148.3531
 OBJECT_SHARED Models/Airport/FGRefuel02.xml 12.58540682 46.01778592 91.3025 329.9 0.0 -0.0
 OBJECT_SHARED Models/Airport/stairs2.ac 12.58459603 46.01795005 92.0845 277.1 0.0 -0.0
 OBJECT_SHARED Models/Airport/switch_control_cabinet.ac 12.58368238 46.02006367 93.3142 351.0 0.0 -0.0
-OBJECT_SHARED Models/Airport/stairs2.ac 12.58330787 46.01983366 93.3425 348.5 0.0 -0.0
+#OBJECT_SHARED Models/Airport/stairs2.ac 12.58330787 46.01983366 93.3425 348.5 0.0 -0.0
 OBJECT_SHARED Models/Airport/stairs2.ac 12.58450116 46.02077225 94.7925 188.7 0.0 -0.0
 OBJECT_SHARED Models/Airport/stairs2.ac 12.58896411 46.02103727 97.2713 106.3 0.0 -0.0
 OBJECT_SHARED Models/Airport/generic-trailer-GPU.xml 12.59098601 46.02118320 98.2635 106.7 0.0 -0.0
