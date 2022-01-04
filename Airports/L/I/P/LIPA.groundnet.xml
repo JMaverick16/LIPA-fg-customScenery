@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
-<!-- LIPA groundnet v3.7.9, by Viper, Marsdolphin, J Maverick 16 -->
+<!-- LIPA groundnet v3.8.0, by Viper, Marsdolphin, J Maverick 16 -->
 <groundnet>
   <version>1</version>
   <parkingList>
 		<Parking index="1" type="hangar" name="Hangar1" lat="N46 1.6133" lon="E12 35.765" heading="360"  radius="17" airlineCodes="" />
 		<Parking index="2" type="hangar" name="Hangar2" lat="N46 1.605" lon="E12 35.8367" heading="335"  radius="17" airlineCodes="" />
-		<Parking index="3" type="hangar" name="Hangar3" lat="N46 1.6067" lon="E12 35.9133" heading="320"  radius="17" airlineCodes="" />
+		<Parking index="3" type="hangar" name="Hangar3" lat="N46 1.6067" lon="E12 35.9133" heading="330"  radius="17" airlineCodes="" />
 		<Parking index="4" type="hangar" name="Hangar4" lat="N46 1.62" lon="E12 35.9633" heading="360"  radius="17" airlineCodes="" />
 		<Parking index="5" type="hangar" name="Hangar5" lat="N46 1.7083" lon="E12 35.8433" heading="180"  radius="17" airlineCodes="" />
 		<Parking index="6" type="hangar" name="Buzzard1" lat="N46 1.67" lon="E12 34.8767" heading="008"  radius="17" airlineCodes="" />
