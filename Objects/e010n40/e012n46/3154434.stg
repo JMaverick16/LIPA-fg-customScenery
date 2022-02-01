@@ -197,12 +197,12 @@ OBJECT_SHARED Models/Military/LightingGantry.xml 12.593723 46.0247491 102.3 268.
 OBJECT_SHARED Models/Military/LightingGantry.xml 12.5937789 46.0253485 103.48 87.2
 OBJECT_SHARED Models/Military/LightingGantry.xml 12.5946732 46.0247252 102.06 0
 OBJECT_SHARED Models/Military/LightingGantry.xml 12.5946848 46.0253256 103.26 357.9
-OBJECT_SHARED Models/Communications/mil-antena-45m.xml 12.5806217 46.0254745 86.6 10
-OBJECT_SHARED Models/Communications/mil-antena-45m.xml 12.5858238 46.0172187 81.35 50
-OBJECT_SHARED Models/Communications/mil-antena-45m.xml 12.5914765 46.0218319 86.95 48
-OBJECT_SHARED Models/Communications/mil-antena-45m.xml 12.603632 46.0267818 106.01 170
+OBJECT_SHARED Models/Communications/mil-antena-45m.xml 12.5806217 46.0254745 81.6 10
+OBJECT_SHARED Models/Communications/mil-antena-45m.xml 12.5858238 46.0172187 76.35 50
+OBJECT_SHARED Models/Communications/mil-antena-45m.xml 12.5914765 46.0218319 81.95 48
+OBJECT_SHARED Models/Communications/mil-antena-45m.xml 12.603632 46.0267818 100.01 170
 OBJECT_SHARED Models/Communications/mil-antena-45m.xml 12.6052308 46.0437253 121.91 336
-OBJECT_SHARED Models/Communications/mil-antena-45m.xml 12.6077569 46.0329832 115.91 0
+OBJECT_SHARED Models/Communications/mil-antena-45m.xml 12.6077569 46.0329832 110.91 0
 OBJECT_SHARED Models/Communications/mil-antena-45m.xml 12.612385 46.022129 107.55 40
 OBJECT_SHARED Models/Communications/mil-antena-61m.xml 12.5308573 46.093436 1242.75 48
 OBJECT_SHARED Models/Communications/mil-antena-61m.xml 12.5312583 46.0934889 1242.91 264
@@ -229,7 +229,7 @@ OBJECT_SHARED Models/Military/humvee-pickup-odrab-low-poly.xml 12.5785068 46.026
 OBJECT_SHARED Models/Military/humvee-pickup-odrab-low-poly.xml 12.57874 46.0262367 96.51 244
 OBJECT_SHARED Models/Military/humvee-pickup-odrab-low-poly.xml 12.5869826 46.0280692 102.68 43.5
 OBJECT_SHARED Models/Military/humvee-pickup-odrab-low-poly.xml 12.5906055 46.0313106 107.5 120
-OBJECT_SHARED Models/Military/humvee-pickup-odrab-low-poly.xml 12.5906468 46.031281 107.5 120
+#OBJECT_SHARED Models/Military/humvee-pickup-odrab-low-poly.xml 12.5906468 46.031281 107.5 120
 OBJECT_SHARED Models/Military/humvee-pickup-odrab-low-poly.xml 12.5906861 46.0312506 107.49 120
 OBJECT_SHARED Models/Military/humvee-pickup-odrab-low-poly.xml 12.5907251 46.031219 107.48 120
 #OBJECT_SHARED Models/Military/humvee-pickup-odrab-low-poly.xml 12.5917597 46.0305113 107.44 288
@@ -933,6 +933,9 @@ OBJECT_SHARED Models/Airport/cf.xml 12.58182760 46.02638061 98.3429 52.0 0.0 -0.
 OBJECT_SHARED Models/Airport/cf.xml 12.58189414 46.02637381 98.3254 320.0 0.0 -0.0
 OBJECT_SHARED Models/Airport/cargobox.xml 12.58151266 46.02648943 98.2717 4.0 0.0 -0.0
 OBJECT_SHARED Models/Military/coleman-tow-tractor-odrab-low-poly.xml 12.58182579 46.02621136 98.2030 196.0 0.0 -0.0
+OBJECT_SHARED Models/Military/coleman-tow-tractor-odrab-low-poly.xml 12.61036239 46.04473744 130.5854 228.9 0.0 -0.0
+OBJECT_SHARED Models/Military/coleman-tow-tractor-odrab-low-poly.xml 12.58475814 46.01798529 91.6325 128.0 0.0 -0.0
+OBJECT_SHARED Models/Military/coleman-tow-tractor-odrab-low-poly.xml 12.59037163 46.01897111 95.6144 52.0 0.0 -0.0
 OBJECT_SHARED Models/Boundaries/Fence-20m-grayBW.xml 12.58192647 46.02559786 97.6852 0.0 0.0 -0.0
 OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 12.58153562 46.02591128 97.8176 277.8 0.0 -0.0
 OBJECT_SHARED Models/Boundaries/Fence-10m-grayBW.xml 12.58173249 46.02559764 97.4520 0.0 0.0 -0.0
@@ -942,4 +945,17 @@ OBJECT_SHARED Models/Military/fuel-truck-medpoly.xml 12.59762323 46.03507814 114
 OBJECT_SHARED Models/Military/fuel-truck-medpoly.xml 12.59105261 46.02363347 100.8179 131.5 0.0 -0.0
 OBJECT_SHARED Models/Aircraft/f16_lowpoly.ac 12.59092474 46.02370808 100.7637 134.0 0.0 -0.0
 OBJECT_SHARED Models/Aircraft/f16_lowpoly.ac 12.59093548 46.02406416 101.1015 222.3 0.0 -0.0
+OBJECT_SHARED Models/Airport/cf.xml 12.60447392 46.03841841 121.3022 355.9 0.0 -0.0
+OBJECT_SHARED Models/Airport/cf.xml 12.60441538 46.03840083 121.3006 80.0 0.0 -0.0
+OBJECT_SHARED Models/AirBase/klsv-workshop-4-red.xml 12.60488888 46.03949091 122.6470 131.9 0.0 -0.0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.60472226 46.03972345 122.7213 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.60482393 46.03994675 123.0069 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.60455744 46.04051250 123.3965 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.60415393 46.04070580 123.3687 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.60514863 46.04043727 123.6366 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.60575224 46.04080675 124.3114 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.60481573 46.04026141 123.2899 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.60944553 46.04317753 128.5559 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Tilia_x_europaea_20m.xml 12.61212870 46.04500443 132.5099 0.0 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/Automatic_Green_Gate_20m.xml 12.60363733 46.04066176 123.6868 61.8 0.0 -0.0
 OBJECT_SHARED Models/Effects/smoke_small_slow5000.xml 12.60942968 46.04340732 137.4153 0.0 0.0 -0.0
