@@ -16,6 +16,22 @@ Since January 2022, all objects that have been revised inside TerraSync have bee
 
 For the AI Truman carrier, copy over the xml file inside FGData/AI, then activate it via launcher as truman_adriatic or inside the AI dialog once in-sim.
 
+USS Truman AI scenario
+-------------------------
+Dedicated USS Truman AI scenario spawns the carrier plus its fleet in the southwestern portion of SPEEDY airspace, about 115NM south of Aviano AB and 40NM east of Rimini (LIPR).
+Carrier speed is 0kts, hence it will enable people using it to avoid having any position offset compared to other pilots, and of course allowing everyone to use it simultaneously.
+Make sure to not run both the original Truman demo and this one simultaneously.
+
+INFO:
+	TACAN: 075X - 112.8 MHz
+	Heading: 325
+	Location: 115NM south of LIPA, 40nm east of LIPR (44.18N, 13.5E).
+	Escorts:
+	2x CG-57 USS Lake Champlain (Ticonderoga-class cruiser)
+	4x Oliver Perry (Guided missile frigate)
+	1x LPD-17 San Antonio (Amphibious transport dock)
+	1x MH-60 Helicopter
+
 Licenses
 --------
 
