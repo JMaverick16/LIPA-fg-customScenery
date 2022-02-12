@@ -23,7 +23,7 @@ Carrier speed is 0kts, hence it will enable people using it to avoid having any 
 Make sure to not run both the original Truman demo and this one simultaneously.
 
 INFO:
-- TACAN: 075X - 112.8 MHz
+- TACAN: 031X - 109.4 MHz
 - Heading: 325
 - Location: 115NM south of LIPA, 40nm east of LIPR (44.18N, 13.5E).
 

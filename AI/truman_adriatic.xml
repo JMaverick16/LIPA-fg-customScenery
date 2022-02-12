@@ -21,7 +21,7 @@
 
 		<description>
 			Harry S.Truman (CVN-75)
-			TACAN: 075X
+			TACAN: 031X
 			Heading: 325
 			Location: 40nm east of Rimini LIPR
 
@@ -43,7 +43,7 @@
 			<callsign>Truman</callsign>
 			<pennant-number>CVN-75</pennant-number>
 			<description>USS Harry S. Truman (CVN-75), 40nm off LIPR (44.18N, 13.5E)</description>
-			<TACAN-channel-ID>075X</TACAN-channel-ID>
+			<TACAN-channel-ID>031X</TACAN-channel-ID>
 			<model>Models/Geometry/Nimitz/truman.xml</model>
 			<latitude>44.1834</latitude>
 			<longitude>13.50</longitude>
