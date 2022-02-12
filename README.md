@@ -23,14 +23,22 @@ Carrier speed is 0kts, hence it will enable people using it to avoid having any 
 Make sure to not run both the original Truman demo and this one simultaneously.
 
 INFO:
-	TACAN: 075X - 112.8 MHz
-	Heading: 325
-	Location: 115NM south of LIPA, 40nm east of LIPR (44.18N, 13.5E).
-	Escorts:
-	2x CG-57 USS Lake Champlain (Ticonderoga-class cruiser)
-	4x Oliver Perry (Guided missile frigate)
-	1x LPD-17 San Antonio (Amphibious transport dock)
-	1x MH-60 Helicopter
+
+TACAN: 075X - 112.8 MHz
+
+Heading: 325
+
+Location: 115NM south of LIPA, 40nm east of LIPR (44.18N, 13.5E).
+
+Escorts:
+
+2x CG-57 USS Lake Champlain (Ticonderoga-class cruiser)
+
+4x Oliver Perry (Guided missile frigate)
+
+1x LPD-17 San Antonio (Amphibious transport dock)
+
+1x MH-60 Helicopter
 
 Licenses
 --------
