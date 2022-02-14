@@ -23,7 +23,7 @@
 			Harry S.Truman (CVN-75)
 			TACAN: 031X
 			Heading: 325
-			Location: 40nm east of Rimini LIPR
+			Location: 46nm east of Rimini LIPR
 
       Truman demo comes with several escorts:
        - 2x CG-57 USS Lake Champlain (Ticonderoga-class cruiser)
@@ -42,11 +42,11 @@
 			<name>Truman</name>
 			<callsign>Truman</callsign>
 			<pennant-number>CVN-75</pennant-number>
-			<description>USS Harry S. Truman (CVN-75), 40nm off LIPR (44.18N, 13.5E)</description>
+			<description>USS Harry S. Truman (CVN-75), 46nm off LIPR (44.00N, 13.6E)</description>
 			<TACAN-channel-ID>031X</TACAN-channel-ID>
 			<model>Models/Geometry/Nimitz/truman.xml</model>
-			<latitude>44.1834</latitude>
-			<longitude>13.50</longitude>
+			<latitude>44.00</latitude>
+			<longitude>13.60</longitude>
             <deck-altitude>66</deck-altitude>
 			<speed>0</speed>
 			<heading>325</heading>

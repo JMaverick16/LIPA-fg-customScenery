@@ -18,14 +18,14 @@ For the AI Truman carrier, copy over the xml file inside FGData/AI, then activat
 
 USS Truman AI scenario
 -------------------------
-Dedicated USS Truman AI scenario spawns the carrier plus its fleet in the southwestern portion of SPEEDY airspace, about 115NM south of Aviano AB and 40NM east of Rimini (LIPR).
+Dedicated USS Truman AI scenario spawns the carrier plus its fleet in the southwestern portion of SPEEDY airspace, about 130NM south of Aviano AB and 46NM east of Rimini (LIPR).
 Carrier speed is 0kts, hence it will enable people using it to avoid having any position offset compared to other pilots, and of course allowing everyone to use it simultaneously.
 Make sure to not run both the original Truman demo and this one simultaneously.
 
 INFO:
 - TACAN: 031X - 109.4 MHz
 - Heading: 325
-- Location: 115NM south of LIPA, 40nm east of LIPR (44.18N, 13.5E).
+- Location: 130NM south of LIPA, 46nm east of LIPR (44.0N, 13.6E).
 
 Escorts:
 - 2x CG-57 USS Lake Champlain (Ticonderoga-class cruiser)
