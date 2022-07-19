@@ -201,7 +201,7 @@ OBJECT_SHARED Models/Communications/mil-antena-45m.xml 12.5806217 46.0254745 81.
 OBJECT_SHARED Models/Communications/mil-antena-45m.xml 12.5858238 46.0172187 76.35 50
 OBJECT_SHARED Models/Communications/mil-antena-45m.xml 12.5914765 46.0218319 81.95 48
 OBJECT_SHARED Models/Communications/mil-antena-45m.xml 12.603632 46.0267818 100.01 170
-OBJECT_SHARED Models/Communications/mil-antena-45m.xml 12.6052308 46.0437253 121.91 336
+#OBJECT_SHARED Models/Communications/mil-antena-45m.xml 12.6052308 46.0437253 121.91 336
 OBJECT_SHARED Models/Communications/mil-antena-45m.xml 12.6077569 46.0329832 110.91 0
 OBJECT_SHARED Models/Communications/mil-antena-45m.xml 12.612385 46.022129 107.55 40
 OBJECT_SHARED Models/Communications/mil-antena-61m.xml 12.5308573 46.093436 1242.75 48
@@ -977,4 +977,9 @@ OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 12.59509199 46.02739445 106
 OBJECT_SHARED Models/Boundaries/Fence-10m-grayBW.xml 12.59507640 46.02712333 106.3926 267.6 0.0 -0.0
 OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 12.59528953 46.02691120 106.2975 312.0 0.0 -0.0
 OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 12.59793237 46.02919934 109.4609 24.0 0.0 -0.0
+OBJECT_SHARED Models/LIPA/Nighthawk/F-117.ac 12.60534535 46.04431729 129.2817 336.0 2.3 0.0
+OBJECT_SHARED Models/Airport/cargoip.xml 12.60503970 46.04431937 127.3973 336.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/storage_container_20ft_yellow.ac 12.60543150 46.04407421 127.3540 293.8 0.0 -0.0
+OBJECT_SHARED Models/Airport/cargoim.xml 12.60514040 46.04441888 127.5380 312.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/meteoradar.ac 12.60523282 46.04373470 126.9590 62.5 0.0 -0.0
 #OBJECT_SHARED Models/Effects/smoke_small_slow5000.xml 12.60942968 46.04340732 137.4153 0.0 0.0 -0.0
