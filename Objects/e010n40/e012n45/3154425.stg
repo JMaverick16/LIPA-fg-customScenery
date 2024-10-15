@@ -1,0 +1,7 @@
+OBJECT_SHARED Models/Airport/ndb.ac 12.428531 45.924331 37.52 126
+OBJECT_SHARED Models/Communications/communication-building1.ac 12.428091 45.98319 488.56 24
+OBJECT_SHARED Models/Communications/Antenna1.ac 12.42771 45.983164 490.51 292
+OBJECT_SHARED Models/Communications/Antenna3.ac 12.427812 45.983272 491.32 112
+OBJECT_SHARED Models/Communications/Antenna-House.ac 12.427919 45.983041 487.63 20
+
+OBJECT_SHARED Models/Industrial/Italian_water_tower.ac 12.510601 45.959731 26.8885
