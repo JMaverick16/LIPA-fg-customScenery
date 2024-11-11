@@ -1018,4 +1018,21 @@ OBJECT_SHARED Models/Aircraft/HH-60-lowpoly.xml 12.60532125 46.03951750 122.8107
 OBJECT_SHARED Models/Military/coleman-tow-tractor-odrab-low-poly.xml 12.60642589 46.04021256 124.0988 42.1 0.0 -0.0
 OBJECT_SHARED Models/Military/coleman-tow-tractor-odrab-low-poly.xml 12.60529471 46.03932105 122.6303 220.2 0.0 -0.0
 OBJECT_SHARED Models/Airport/generic-trailer-GPU.xml 12.60643428 46.04002752 123.8998 41.6 0.0 -0.0
+OBJECT_SHARED Models/Industrial/Boesdorf_Chimney.xml 12.70265 46.05894 45.2887 450 #San Foca
+OBJECT_SHARED Models/Industrial/Boesdorf_Chimney.xml 12.706949 46.030212 -26.0 450 #Villa Rinaldi
 OBJECT_SHARED Models/Effects/smoke_small_slow5000.xml 12.60942968 46.04340732 137.4153 0.0 0.0 -0.0
+
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 12.58399883 46.01839507 91.8923 336.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 12.59115933 46.02123946 98.4964 200.0 0.0 -0.0
+OBJECT_SHARED Models/AirBase/klsv-long-ext-stores-hangar.xml 12.59171023 46.02269346 99.3073 129.4 0.0 -0.0
+OBJECT_SHARED Models/Military/LightingGantry.xml 12.58676057 46.02042776 95.2409 129.5 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 12.59000076 46.02966816 105.4462 46.4 0.0 -0.0
+OBJECT_SHARED Models/AirBase/klsv-workshop-2-red.xml 12.60310823 46.04111584 124.4043 330.7 0.0 -0.0
+OBJECT_SHARED Models/AirBase/klsv-long-ext-stores-hangar.xml 12.60389612 46.04221043 124.0719 328.0 0.0 -0.0
+OBJECT_SHARED Models/AirBase/klsv-cross-building.xml 12.60236483 46.04054308 122.4982 3.1 0.0 -0.0
+OBJECT_SHARED Models/AirBase/klsv-small-building-1.xml 12.60381549 46.04253233 124.8654 236.3 0.0 -0.0
+OBJECT_SHARED Models/AirBase/klsv-building-4.xml 12.60266358 46.04247373 124.3943 132.0 0.0 -0.0
+OBJECT_SHARED Models/AirBase/klsv-small-building-1.xml 12.60855445 46.04278707 128.0484 40.0 0.0 -0.0
+OBJECT_SHARED Models/AirBase/klsv-building-2.xml 12.60271939 46.04028597 122.2927 328.0 0.0 -0.0
+OBJECT_SHARED Models/AirBase/klsv-long-ext-stores-hangar.xml 12.59308221 46.03429621 110.7471 312.0 0.0 -0.0
+OBJECT_SHARED Models/AirBase/klsv-building-2-park.xml 12.59075843 46.03296511 107.1874 268.0 0.0 -0.0
