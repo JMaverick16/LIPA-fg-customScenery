@@ -1020,6 +1020,7 @@ OBJECT_SHARED Models/Military/coleman-tow-tractor-odrab-low-poly.xml 12.60529471
 OBJECT_SHARED Models/Airport/generic-trailer-GPU.xml 12.60643428 46.04002752 123.8998 41.6 0.0 -0.0
 OBJECT_SHARED Models/Industrial/Boesdorf_Chimney.xml 12.70265 46.05894 45.2887 450 #San Foca
 OBJECT_SHARED Models/Industrial/Boesdorf_Chimney.xml 12.706949 46.030212 -26.0 450 #Villa Rinaldi
+OBJECT_SHARED Models/Industrial/Boesdorf_Chimney.xml 12.709073 46.093182 82.5245 0.0 #S. Leonardo
 OBJECT_SHARED Models/Effects/smoke_small_slow5000.xml 12.60942968 46.04340732 137.4153 0.0 0.0 -0.0
 
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 12.58399883 46.01839507 91.8923 336.0 0.0 -0.0
