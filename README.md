@@ -41,7 +41,7 @@ Licenses
 *  The 3D objects and models are licensed under the terms of the GNU GPLv2 or later.
   
 
-:copyright: 2019-2020-2021-2022-2023-2024 J Maverick 16 (3D models placement, airport data, ground network changes, AI Truman)
+:copyright: 2019-2025 J Maverick 16 (3D models placement, airport data, ground network changes, AI Truman)
 :copyright: 2020-2021 Marsdolphin (improved ground network)
 :copyright: 2020 VIPER (initial ground network)
 :copyright: 2020-2021 mada00 (NATO Military Shelter model)
