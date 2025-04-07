@@ -49,7 +49,7 @@
 			<longitude>13.60</longitude>
             <deck-altitude>66</deck-altitude>
 			<speed>0</speed>
-			<heading>325</heading>
+			<heading>320</heading>
       <!-- relativ to x,y origin of model -->
       <tower-x-offset-m>95.10</tower-x-offset-m> <!-- + bck -->
       <tower-y-offset-m>23.27</tower-y-offset-m> <!-- + rgt -->
@@ -144,33 +144,16 @@
 		<entry>
 			<type>escort</type>
 			<model>Models/Maritime/Military/CG-57-high-detail/CG-57.xml</model>
-			<name>Escort</name>
+			<name>Escort-1</name>
 			<callsign>CG-57</callsign>
 			<turn-radius-ft alias="../../parameters/turn-radius-ft"/>
 			<fixed-turn-radius-ft alias="../../parameters/fixed-turn-radius-ft"/>
 			<rudder-constant alias="../../parameters/rudder-constant"/>
-			<speed-constant alias="../../parameters/speed-constant"/>
+			<speed-constant>0</speed-constant>
 			<roll-factor>2</roll-factor>
 			<station>
-				<range-nm>1.75</range-nm>
-				<brg-deg>190</brg-deg>
-				<parent>Truman</parent>
-			</station>
-		</entry>
-
-		<entry>
-			<type>escort</type>
-			<model>Models/Maritime/Military/CG-57-high-detail/CG-57.xml</model>
-			<name>Escort-6</name>
-			<callsign>CG-57</callsign>
-			<turn-radius-ft alias="../../parameters/turn-radius-ft"/>
-			<fixed-turn-radius-ft alias="../../parameters/fixed-turn-radius-ft"/>
-			<rudder-constant alias="../../parameters/rudder-constant"/>
-			<speed-constant alias="../../parameters/speed-constant"/>
-			<roll-factor>2</roll-factor>
-			<station>
-				<range-nm>6.0</range-nm>
-				<brg-deg>160</brg-deg>
+				<range-nm>0.5</range-nm>
+				<brg-deg>290</brg-deg>
 				<parent>Truman</parent>
 			</station>
 		</entry>
@@ -183,11 +166,11 @@
 			<turn-radius-ft alias="../../parameters/turn-radius-ft"/>
 			<fixed-turn-radius-ft alias="../../parameters/fixed-turn-radius-ft"/>
 			<rudder-constant alias="../../parameters/rudder-constant"/>
-			<speed-constant alias="../../parameters/speed-constant"/>
+			<speed-constant>0</speed-constant>
 			<update-interval-sec>180</update-interval-sec>
 			<station>
-				<range-nm>5.0</range-nm>
-				<brg-deg>330</brg-deg>
+				<range-nm>1.5</range-nm>
+				<brg-deg>0</brg-deg>
 				<deg-true>true</deg-true>
 				<range-limit-nm>0.5</range-limit-nm>
 				<parent>Truman</parent>
@@ -203,11 +186,11 @@
 			<turn-radius-ft alias="../../parameters/turn-radius-ft"/>
 			<fixed-turn-radius-ft alias="../../parameters/fixed-turn-radius-ft"/>
 			<rudder-constant alias="../../parameters/rudder-constant"/>
-			<speed-constant alias="../../parameters/speed-constant"/>
+			<speed-constant>0</speed-constant>
 			<update-interval-sec>180</update-interval-sec>
 			<station>
-				<range-nm>5.0</range-nm>
-				<brg-deg>285</brg-deg>
+				<range-nm>2.0</range-nm>
+				<brg-deg>315</brg-deg>
 				<deg-true>true</deg-true>
 				<range-limit-nm>0.5</range-limit-nm>
 				<parent>Truman</parent>
@@ -223,11 +206,11 @@
 			<turn-radius-ft alias="../../parameters/turn-radius-ft"/>
 			<fixed-turn-radius-ft alias="../../parameters/fixed-turn-radius-ft"/>
 			<rudder-constant alias="../../parameters/rudder-constant"/>
-			<speed-constant alias="../../parameters/speed-constant"/>
+			<speed-constant>0</speed-constant>
 			<update-interval-sec>180</update-interval-sec>
 			<station>
-				<range-nm>5.0</range-nm>
-				<brg-deg>240</brg-deg>
+				<range-nm>1.5</range-nm>
+				<brg-deg>270</brg-deg>
 				<deg-true>true</deg-true>
 				<range-limit-nm>0.5</range-limit-nm>
 				<parent>Truman</parent>
@@ -243,11 +226,11 @@
 			<turn-radius-ft alias="../../parameters/turn-radius-ft"/>
 			<fixed-turn-radius-ft alias="../../parameters/fixed-turn-radius-ft"/>
 			<rudder-constant alias="../../parameters/rudder-constant"/>
-			<speed-constant alias="../../parameters/speed-constant"/>
+			<speed-constant>0</speed-constant>
 			<update-interval-sec>180</update-interval-sec>
 			<station>
-				<range-nm>6.0</range-nm>
-				<brg-deg>40</brg-deg>
+				<range-nm>1.5</range-nm>
+				<brg-deg>180</brg-deg>
 				<deg-true>true</deg-true>
 				<range-limit-nm>1.0</range-limit-nm>
 				<parent>Truman</parent>
@@ -258,17 +241,34 @@
 		<entry>
 			<type>escort</type>
 			<model>Models/Maritime/Military/LPD17-high-detail.xml</model>
-			<name>LPD 17</name>
-			<callsign>LPD 17</callsign>
+			<name>LPD-17</name>
+			<callsign>LPD-17</callsign>
 			<turn-radius-ft alias="../../parameters/turn-radius-ft"/>
 			<fixed-turn-radius-ft alias="../../parameters/fixed-turn-radius-ft"/>
 			<rudder-constant alias="../../parameters/rudder-constant"/>
-			<speed-constant alias="../../parameters/speed-constant"/>
+			<speed-constant>0</speed-constant>
 			<max-speed-kts>22</max-speed-kts>
 			<station>
-				<range-nm>2.75</range-nm>
-				<brg-deg>110</brg-deg>
+				<range-nm>1.0</range-nm>
+				<brg-deg>120</brg-deg>
 				<range-limit-nm>0.25</range-limit-nm>
+				<parent>Truman</parent>
+			</station>
+		</entry>
+
+		<entry>
+			<type>escort</type>
+			<model>Models/Maritime/Military/CG-57-high-detail/CG-57.xml</model>
+			<name>Escort-6</name>
+			<callsign>CG-57</callsign>
+			<turn-radius-ft alias="../../parameters/turn-radius-ft"/>
+			<fixed-turn-radius-ft alias="../../parameters/fixed-turn-radius-ft"/>
+			<rudder-constant alias="../../parameters/rudder-constant"/>
+			<speed-constant>0</speed-constant>
+			<roll-factor>2</roll-factor>
+			<station>
+				<range-nm>2.0</range-nm>
+				<brg-deg>170</brg-deg>
 				<parent>Truman</parent>
 			</station>
 		</entry>
@@ -281,17 +281,16 @@
 			<turn-radius-ft>200</turn-radius-ft>
 			<fixed-turn-radius-ft>200</fixed-turn-radius-ft>
 			<rudder-constant>30</rudder-constant>
-			<speed-constant>5</speed-constant>
+			<speed-constant>0</speed-constant>
 			<max-speed-kts>120</max-speed-kts>
 			<station>
 				<range-nm>0.15</range-nm>
 				<brg-deg>-90</brg-deg>
 				<range-limit-nm>0.015</range-limit-nm>
-				<height-ft>125</height-ft>
+				<height-ft>130</height-ft>
 				<parent>Truman</parent>
 			</station>
 		</entry>
-
 
 	</scenario>
 </PropertyList>
