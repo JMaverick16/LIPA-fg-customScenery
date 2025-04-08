@@ -22,14 +22,14 @@
 		<description>
 			Harry S.Truman (CVN-75)
 			TACAN: 031X
-			Heading: 325
+			Heading: 320
 			Location: 46nm east of Rimini LIPR
 
-      Truman demo comes with several escorts:
-       - 2x CG-57 USS Lake Champlain (Ticonderoga-class cruiser)
-       - 4x Oliver Perry (Guided missile frigate)
-       - 1x LPD-17 San Antonio (Amphibious transport dock)
-       - 1x MH-60 Helicopter
+	      Truman demo comes with several escorts:
+	       - 2x CG-57 USS Lake Champlain (Ticonderoga-class cruiser)
+	       - 5x Oliver Perry (Guided missile frigate)
+	       - 1x LPD-17 San Antonio (Amphibious transport dock)
+	       - 2x MH-60 Helicopters
 
 
 			Notes:
@@ -144,7 +144,7 @@
 		<entry>
 			<type>escort</type>
 			<model>Models/Maritime/Military/CG-57-high-detail/CG-57.xml</model>
-			<name>Escort-1</name>
+			<name>CG-57</name>
 			<callsign>CG-57</callsign>
 			<turn-radius-ft alias="../../parameters/turn-radius-ft"/>
 			<fixed-turn-radius-ft alias="../../parameters/fixed-turn-radius-ft"/>
@@ -161,7 +161,7 @@
 		<entry>
 			<type>escort</type>
 			<model>Models/Maritime/Military/OliverPerryFFG-high-detail.xml</model>
-			<name>Escort-2</name>
+			<name>Escort-1</name>
 			<callsign>Escort-1</callsign>
 			<turn-radius-ft alias="../../parameters/turn-radius-ft"/>
 			<fixed-turn-radius-ft alias="../../parameters/fixed-turn-radius-ft"/>
@@ -181,7 +181,7 @@
 		<entry>
 			<type>escort</type>
 			<model>Models/Maritime/Military/OliverPerryFFG-high-detail.xml</model>
-			<name>Escort-3</name>
+			<name>Escort-2</name>
 			<callsign>Escort-2</callsign>
 			<turn-radius-ft alias="../../parameters/turn-radius-ft"/>
 			<fixed-turn-radius-ft alias="../../parameters/fixed-turn-radius-ft"/>
@@ -201,7 +201,7 @@
 		<entry>
 			<type>escort</type>
 			<model>Models/Maritime/Military/OliverPerryFFG-high-detail.xml</model>
-			<name>Escort-4</name>
+			<name>Escort-3</name>
 			<callsign>Escort-3</callsign>
 			<turn-radius-ft alias="../../parameters/turn-radius-ft"/>
 			<fixed-turn-radius-ft alias="../../parameters/fixed-turn-radius-ft"/>
@@ -221,7 +221,7 @@
 		<entry>
 			<type>escort</type>
 			<model>Models/Maritime/Military/OliverPerryFFG-high-detail.xml</model>
-			<name>Escort-5</name>
+			<name>Escort-4</name>
 			<callsign>Escort-4</callsign>
 			<turn-radius-ft alias="../../parameters/turn-radius-ft"/>
 			<fixed-turn-radius-ft alias="../../parameters/fixed-turn-radius-ft"/>
@@ -235,6 +235,23 @@
 				<range-limit-nm>1.0</range-limit-nm>
 				<parent>Truman</parent>
 				<patrol>true</patrol>
+			</station>
+		</entry>
+
+		<entry>
+			<type>escort</type>
+			<model>Models/Maritime/Military/CG-57-high-detail/CG-57.xml</model>
+			<name>Escort-5</name>
+			<callsign>Escort-5</callsign>
+			<turn-radius-ft alias="../../parameters/turn-radius-ft"/>
+			<fixed-turn-radius-ft alias="../../parameters/fixed-turn-radius-ft"/>
+			<rudder-constant alias="../../parameters/rudder-constant"/>
+			<speed-constant>0</speed-constant>
+			<roll-factor>2</roll-factor>
+			<station>
+				<range-nm>2.0</range-nm>
+				<brg-deg>170</brg-deg>
+				<parent>Truman</parent>
 			</station>
 		</entry>
 
@@ -258,17 +275,19 @@
 
 		<entry>
 			<type>escort</type>
-			<model>Models/Maritime/Military/CG-57-high-detail/CG-57.xml</model>
-			<name>Escort-6</name>
-			<callsign>CG-57</callsign>
-			<turn-radius-ft alias="../../parameters/turn-radius-ft"/>
-			<fixed-turn-radius-ft alias="../../parameters/fixed-turn-radius-ft"/>
-			<rudder-constant alias="../../parameters/rudder-constant"/>
+			<model>Models/Aircraft/H-60.xml</model>
+			<name>Pedro-1</name>
+			<callsign>Pedro-1</callsign>
+			<turn-radius-ft>200</turn-radius-ft>
+			<fixed-turn-radius-ft>200</fixed-turn-radius-ft>
+			<rudder-constant>30</rudder-constant>
 			<speed-constant>0</speed-constant>
-			<roll-factor>2</roll-factor>
+			<max-speed-kts>120</max-speed-kts>
 			<station>
-				<range-nm>2.0</range-nm>
-				<brg-deg>170</brg-deg>
+				<range-nm>0.125</range-nm>
+				<brg-deg>-90</brg-deg>
+				<range-limit-nm>0.015</range-limit-nm>
+				<height-ft>130</height-ft>
 				<parent>Truman</parent>
 			</station>
 		</entry>
@@ -276,18 +295,18 @@
 		<entry>
 			<type>escort</type>
 			<model>Models/Aircraft/H-60.xml</model>
-			<name>Pedro-1</name>
-			<callsign>Pedro</callsign>
+			<name>Pedro-2</name>
+			<callsign>Pedro-2</callsign>
 			<turn-radius-ft>200</turn-radius-ft>
 			<fixed-turn-radius-ft>200</fixed-turn-radius-ft>
 			<rudder-constant>30</rudder-constant>
 			<speed-constant>0</speed-constant>
 			<max-speed-kts>120</max-speed-kts>
 			<station>
-				<range-nm>0.15</range-nm>
-				<brg-deg>-90</brg-deg>
+				<range-nm>0.9</range-nm>
+				<brg-deg>123</brg-deg>
 				<range-limit-nm>0.015</range-limit-nm>
-				<height-ft>130</height-ft>
+				<height-ft>120</height-ft>
 				<parent>Truman</parent>
 			</station>
 		</entry>
