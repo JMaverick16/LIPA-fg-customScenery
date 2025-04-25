@@ -1,5 +1,5 @@
 # LIPA-fg-customScenery
-Add-on scenery package that improves the already-existing work available on TerraSync made by J Maverick 16.
+Add-on scenery package for Aviano Air Base that improves the already-existing work available on TerraSync made by J Maverick 16.
 =====================
 
 Overview
