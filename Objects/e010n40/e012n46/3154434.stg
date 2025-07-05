@@ -258,7 +258,7 @@ OBJECT_SHARED Models/Military/old-shelter-sand.ac 12.6046835 46.0214551 105.98 4
 OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 12.6030608 46.0309602 113.54 230
 OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 12.6032479 46.031116 113.78 230
 OBJECT_SHARED Models/Aircraft/KC-135-lowpoly.xml 12.6101625 46.0364804 122.17 41.6
-OBJECT_SHARED Models/Military/tower-usaf-40m.xml 12.603791 46.028797 106.87 26
+#OBJECT_SHARED Models/Military/tower-usaf-40m.xml 12.603791 46.028797 106.87 26
 OBJECT_SHARED Models/Airport/helipad_square.xml 12.6099297 46.0465239 132.39 79.9
 #OBJECT_SHARED Models/Aircraft/HH-60-lowpoly.xml 12.60853207 46.04145607 126.38 222.1
 #OBJECT_SHARED Models/Aircraft/HH-60-lowpoly.xml 12.6087355 46.0412959 126.32 222.1
@@ -766,7 +766,9 @@ OBJECT_SHARED Models/Military_Shelter/Military_shelter_lights_base.xml 12.587596
 OBJECT_SHARED Models/Military_Shelter/Military_shelter_lights_base.xml 12.58630279 46.01746370 92.1618 174.9 0.0 -0.0
 OBJECT_SHARED Models/Military_Shelter/Military_shelter_lights_base.xml 12.58448498 46.01803743 91.9041 277.0 0.0 -0.0
 OBJECT_SHARED Models/Military_Shelter/Military_shelter_lights_base.xml 12.57884535 46.02399383 94.8803 199.9 0.0 -0.0
-#OBJECT_SHARED Models/AirBase/klsv-tower.xml 12.603791 46.028797 112.0743 221.8 0.0 -0.0
+OBJECT_SHARED Models/AirBase/klsv-tower.xml 12.603791 46.028797 111.9166 220.5
+OBJECT_SHARED Models/Military/humvee-pickup-odrab-low-poly.xml 12.60370447 46.02884945 111.8571 216.0
+OBJECT_SHARED Models/AirBase/klsv-building-4.xml 12.60460433 46.02895981 112.3825 130.6
 OBJECT_SHARED Models/Airport/kdp_start.ac 12.61425102 46.03703293 142.6722 220.2 0.0 -0.0
 OBJECT_SHARED Models/Military/beacon-mil-nt.xml 12.61427630 46.03701060 148.3531 0.0 0.0 -0.0 
 OBJECT_SHARED Models/Airport/FGRefuel02.xml 12.58540682 46.01778592 91.3025 329.9 0.0 -0.0
@@ -1039,3 +1041,5 @@ OBJECT_SHARED Models/AirBase/klsv-building-2.xml 12.60271939 46.04028597 122.292
 OBJECT_SHARED Models/AirBase/klsv-long-ext-stores-hangar.xml 12.59308221 46.03429621 110.7471 312.0 0.0 -0.0
 OBJECT_SHARED Models/AirBase/klsv-building-2-park.xml 12.59075843 46.03296511 107.1874 268.0 0.0 -0.0
 OBJECT_SHARED Models/Industrial/Italian_water_tower.ac 12.59253673871 46.0624084104 128.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/park-lined.ac 12.60431649 46.02866781 112.3553 39.8 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/park-lined.ac 12.60406821 46.02852491 111.9676 219.8 0.0 -0.0
